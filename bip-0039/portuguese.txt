@@ -118,7 +118,7 @@ bagre
 bagulho
 bainha
 bairro
-balada
+balada (Duplicated in czech)
 baleia
 balsa
 bambu
@@ -683,7 +683,7 @@ hoje
 homem
 honesto
 honrado
-horda
+horda (duplicate in czech)
 horto
 humorado
 iate
@@ -750,7 +750,7 @@ jaleco
 jamais
 janela
 jangada
-jantar
+jantar (duplicate in czech)
 japona
 jaqueta
 jararaca
@@ -810,7 +810,7 @@ laxante
 lazer
 lebre
 legado
-legenda
+legenda (duplicate in czech)
 legume
 leigo
 leme
@@ -838,7 +838,7 @@ lividez
 livro
 lixa
 lixeiro
-lobista
+lobista (duplicate in czech)
 locador
 locutor
 logo
@@ -965,7 +965,7 @@ mostarda
 motel
 moto
 muamba
-mudar
+mudar (Duplicate in spanish)
 mugir
 mulher
 mundial
@@ -982,7 +982,7 @@ nadador
 naja
 namoro
 nanquim
-narrar
+narrar (duplicate in spanish)
 nascer
 natalino
 nato
@@ -1001,7 +1001,7 @@ nobreza
 noite
 noivo
 nomear
-nora
+nora (duplicate in czech)
 nordeste
 nosso
 noturno
@@ -1063,7 +1063,7 @@ ouvido
 ovelha
 pacato
 pacote
-pacto
+pacto (duplicate in spanish)
 padaria
 padrasto
 pagode
@@ -1102,7 +1102,7 @@ peludo
 penca
 peneira
 penhor
-pensar
+pensar (Duplicate in Spanish)
 pente
 penugem
 peralta
@@ -1256,7 +1256,7 @@ rixa
 robalo
 robustez
 rochedo
-rodar
+rodar (duplicate in spanish)
 rodeio
 rodovia
 roedor
@@ -1294,9 +1294,9 @@ salada
 saleiro
 salgado
 saliva
-salsa
+salsa (duplicate in spanish)
 saltear
-salvar
+salvar (duplicate in spanish)
 sanfona
 sangue
 sapato
@@ -1379,7 +1379,7 @@ sossego
 sotaque
 sovado
 sozinho
-subir
+subir (duplicate in spanish)
 submerso
 subsolo
 sucata
@@ -1429,7 +1429,7 @@ temido
 temporal
 tenda
 tenente
-tenor
+tenor (duplicate in czech)
 tensor
 tentar
 teoria
@@ -1457,7 +1457,7 @@ tombo
 tomilho
 tonel
 tontura
-topar
+topar (duplicate in spanish)
 topete
 topo
 tora
@@ -1481,7 +1481,7 @@ trator
 travar
 treco
 tremor
-trepar
+trepar (duplicate in spanish)
 trevo
 triagem
 tribo
@@ -1500,7 +1500,7 @@ truta
 tucano
 tudo
 tulipa
-tundra
+tundra (duplicate in czech)
 tupi
 turbo
 turco
@@ -1537,7 +1537,7 @@ vantagem
 vaqueiro
 varanda
 varejo
-variar
+variar (duplicate in spanish)
 vasilha
 vasto
 vazar
@@ -1566,7 +1566,7 @@ vetor
 viaduto
 viagem
 viatura
-vibrar
+vibrar (duplicate in spanish)
 videira
 vidro
 viela
@@ -1595,7 +1595,7 @@ volante
 voleio
 voltar
 vontade
-votar
+votar (duplicate in spanish)
 vulto
 xadrez
 xarope
@@ -1607,5 +1607,5 @@ zepelim
 zerar
 zoeira
 zombar
-zona
+zona (duplicate in spanish)
 zumbido
