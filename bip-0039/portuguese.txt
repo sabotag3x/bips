@@ -133,7 +133,7 @@ barraca
 barulho
 baseado
 basta
-batalha
+bateria
 batata
 batom
 baunilha
@@ -752,7 +752,6 @@ isolado
 isqueiro
 jaleco
 jamais
-janeiro
 janela
 jangada
 japona
@@ -784,6 +783,7 @@ jumento
 junho
 junta
 jurado
+jurista
 juro
 lacre
 ladeira
