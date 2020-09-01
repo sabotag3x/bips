@@ -1,24 +1,22 @@
 abacaxi
 abaixo
--abalo (mudar para verbo)
+abalar
 abelha
 abismo
 absinto
 absurdo
 abutre
 acaso
--aceito (mudar para verbo)
+aceitar
 achar
 acerola
 acidez
 acima
--acne (spanish.txt)
--acordo (mudar para verbo)
+acordar
 adega
 adesivo
 adiante
 adiposo
--adjunto (palavra pouco utilizada)
 adorar
 adubo
 adverso
@@ -38,13 +36,11 @@ alarme
 aldeia
 alecrim
 alegria
--alelo (palavra pouco utilizada)
 alface
 algema
 alheio
 alho
 alicate
--alpe (palavra pouco utilizada)
 alpiste
 aluguel
 aluno
@@ -54,14 +50,11 @@ amarelo
 ambiente
 ameixa
 amido
--amaro (palavra pouco utilizada)
 ampola
 amostra
--ampola (duplicada)
 anarquia
 anchova
 anel
--anedota (palavra pouco utilizada)
 anexo
 angular
 anjo
@@ -72,20 +65,16 @@ anzol
 apache
 apatia
 apego
--apenas (similar a penas)
--apesar (similar a pesar)
 apetite
 apito
 aplauso
 apoio
 aposta
--apto (abreviatura de apartamento)
 arame
 aranha
 arapuca
 arara
 areia
--argila (similar a palavra abaixo)
 argola
 arma
 arquivo
@@ -106,7 +95,6 @@ ateu
 atitude
 ativo
 ator
--atrofia (palavra negativa)
 atual
 atum
 auditor
@@ -118,17 +106,13 @@ aveia
 avental
 avesso
 aviador
--avidez (palavra pouco utilizada)
 avulso
 axila
--azedume (palavra negativa)
 azeite
--azia (palavra negativa)
 babosa
 bacia
 badalo
 baderna
--bafo (palavra negativa)
 bagagem
 bagre
 bagulho
@@ -136,13 +120,10 @@ bainha
 bairro
 balada
 baleia
--balofo (palavra negativa)
 balsa
 bambu
--bandido (palavra negativa)
 banho
 banquete
--baque (palavra pouco utilizada)
 barata
 barbado
 bardo
@@ -155,13 +136,10 @@ batom
 baunilha
 beato
 beco
--bedelho (palavra pouco utilizada)
 beijo
 beira
 belo
--bemol (palavra pouco utilizada)
 bengala
--bento (palavra pouco utilizada)
 berro
 besouro
 besta
@@ -176,7 +154,6 @@ biotipo
 biologia
 bipolar
 biruta
--bismuto (palavra pouco utilizada)
 bisneto
 biscoito
 bitola
@@ -196,7 +173,6 @@ boliche
 bolso
 bonde
 boneco
--bonobo (palavra pouco utilizada)
 bonsai
 boreal
 borra
@@ -205,30 +181,24 @@ botina
 bovino
 boxe
 brado
--brando (similar a palavra acima)
 brasil
 braveza
--brejo (palavra pouco utilizada)
 breu
 briga
 brilho
 brita
 broa
--bromo (palavra pouco utilizada)
 broto
 bruma
 bruxo
--bucal (palavra similar a bocal)
 bucha
 bula
 bueiro
 bule
 buraco
--burgo (palavra pouco utilizada)
 burrice
 busca
 busto
--butano (palavra pouco utilizada)
 buzina
 cabana
 cabelo
@@ -240,12 +210,10 @@ cafona
 caixa
 cajado
 calha
--califa (palavra pouco utilizada)
 camelo
 camisa
 canguru
 canhoto
--caninha (palavra pouco utilizada)
 canjica
 canoa
 cansado
@@ -300,17 +268,13 @@ cinema
 cinto
 cinza
 ciranda
--cirrose (palavra negativa)
 cisco
--clava (palavra pouco utilizada)
 clero
 clique
 clone
 clube
 coado
 coala
--coaxial (palavra pouco utilizada)
--cobalto (palavra pouco utilizada)
 coberto
 cocada
 coceira
@@ -339,7 +303,6 @@ contato
 convite
 copeiro
 coragem
--corcova (palavra pouco utilizada)
 corja
 corno
 correio
@@ -347,7 +310,6 @@ cortejo
 coruja
 corvo
 cosmo
--cosseno (palavra pouco utilizada)
 couro
 couve
 covarde
@@ -360,7 +322,6 @@ credor
 creme
 crespo
 criada
--criolina (typo)
 crise
 croquete
 crosta
@@ -370,7 +331,6 @@ cuia
 cuidado
 culatra
 cultura
--cumbuca (palavra pouco utilizada)
 cunhado
 cupido
 cupom
@@ -384,25 +344,19 @@ decimal
 declive
 dedal
 defesa
--defunto (palavra negativa)
 degrau
 degelo
--degola (palavra negativa)
 deitado
--dejeto (palavra negativa)
 delator
 delegado
--delonga (palavra pouco utilizada)
 demanda
--demente (palavra negativa)
 demolido
--dengue
+-dengue (palavra negativa)
 dente
 depenado
 depressa
 deposto
 deriva
--derrame (palavra negativa)
 desafio
 descida
 desenho
@@ -411,7 +365,6 @@ desigual
 desmaio
 desova
 despesa
--desuso (palavra pouco utilizada)
 desvio
 detento
 detrito
@@ -420,23 +373,16 @@ deveras
 devido
 devotado
 dezena
--dezoito (número escrito por extenso)
--diabo (palavra negativa)
 diagrama
 dialeto
 diante
 dica
 difuso
--digesto (número escrito por extenso)
--digresso (número escrito por extenso)
 dilatado
--diminuto (número escrito por extenso)
 dinamite
 dinheiro
 diocese
--diodo (número escrito por extenso)
 direto
--discente (número escrito por extenso)
 disparo
 ditador
 ditongo
@@ -447,14 +393,9 @@ doador
 dobrado
 doca
 doceiro
--doentio (palavra negativa)
--doido (palavra negativa)
--dois (número escrito por extenso)
 doloso
 domador
 dominado
--domo (palavra pouco utilizada)
--doninha (palavra pouco utilizada)
 donzela
 dormente
 dorsal
@@ -465,46 +406,32 @@ doutor
 dreno
 drinque
 drible
--druida (palavra pouco utilizada)
 dublado
 duende
--dueto (palavra pouco utilizada)
--duodeno (palavra pouco utilizada)
 duplo
 duquesa
 durante
 duvidoso
--ebulidor (palavra pouco utilizada)
--eclesial (palavra pouco utilizada)
 eclipse
 ecoante
 ecologia
--edema (palavra negativa)
 edital
 educado
 efeito
--efusivo (palavra pouco utilizada)
--eira (palavra pouco utilizada)
 eixo
--elastina (palavra pouco utilizada)
 eleitor
 elenco
 elevador
 elfo
 elitismo
--elogioso (palavra pouco utilizada)
--elusivo (palavra pouco utilizada)
--emanado (palavra pouco utilizada)
 embargo
 embolado
 embrulho
 embutido
 emenda
--emirado (palavra pouco utilizada)
 emissor
 empada
 empinado
--empolado (palavra pouco utilizada)
 emprego
 empuxo
 emulador
@@ -513,8 +440,6 @@ encenado
 enchente
 encosto
 encrenca
--endemia (palavra negativa)
--endosso  (palavra pouco utilizada)
 enfeite
 enfim
 engano
@@ -530,11 +455,9 @@ ensopado
 entanto
 enteado
 entidade
--entorno (palavra pouco utilizada)
 entrada
 entulho
 enviado
--envolto (palavra pouco utilizada)
 enxame
 enxerto
 enxofre
@@ -543,12 +466,10 @@ epiderme
 equador
 equipe
 erguido
--ermo (palavra pouco utilizada)
 errado
 erudito
 erva
 ervilha
--esbarro (palavra pouco utilizada)
 esbelto
 escama
 escola
@@ -557,28 +478,23 @@ escuta
 esfirra
 esgoto
 esgrima
--esguio (palavra pouco utilizada)
 esmalte
--esmeril (palavra pouco utilizada)
 esmola
 esnobe
 espanto
 espelho
 espiga
--esporo (palavra pouco utilizada)
 espreita
 esquadro
 esquerda
 esqui
 estaca
 esterco
--estima (substituir pelo verbo)
 estofado
 estrela
 etanol
 etiqueta
 euforia
--eunuco (palavra pouco utilizada)
 evasivo
 eventual
 exagero
@@ -602,23 +518,18 @@ falido
 falta
 familiar
 fantoche
--faquir (palavra pouco utilizada)
 fardado
 farelo
 farinha
 farofa
--farrapo (palavra pouco utilizada)
 fartura
--fasor (palavra pouco utilizada)
 fatia
 fator
--fauno (palavra pouco utilizada)
 fava
 favela
 faxina
 fazenda
 febre
--fecho (mudar para verbo)
 fedor
 feio
 feira
@@ -628,30 +539,22 @@ felino
 feminino
 feno
 fera
--ferrolho (palavra pouco utilizada)
 ferrugem
 fervente
 festa
 feto
 feudal
 fiapo
--fibroso (palavra pouco utilizada)
--fidalgo (palavra pouco utilizada)
 figa
 figurado
 fileira
 filho
 filme
--findo (palavra pouco utilizada)
 fineza
--finitude (palavra pouco utilizada)
--finura (palavra pouco utilizada)
 firmeza
 fissura
 fita
 fivela
--fixo (similar a ficho do verbo fichar)
--flagelo (palavra pouco utilizada)
 flanela
 flerte
 floco
@@ -665,9 +568,7 @@ foguete
 foice
 folgado
 folheto
--folia (similar a folha)
 fome
--fonema (palavra pouco utilizada)
 fonte
 forca
 forense
@@ -677,24 +578,19 @@ forte
 fosco
 fossa
 fractal
--frade (palavra pouco utilizada)
 fragata
 fralda
 frango
--fraque (palavra pouco utilizada)
 frasco
 fraterno
 freio
 frente
 fresta
 frevo
--friagem (palavra pouco utilizada)
 friso
 fritura
 fronte
 frota
--frouxo (palavra negativa)
--fugaz (palavra pouco utilizada)
 fulano
 fuligem
 fungo
@@ -708,23 +604,19 @@ gagueira
 gaiato
 gaiola
 gaivota
--galante (palavra pouco utilizada)
 galeria
 galho
 galinha
 galocha
 ganho
--ganido (palavra pouco utilizada)
 garfo
 gargalo
 garimpo
 garoto
 garrafa
--garrote (palavra pouco utilizada)
 gasto
--gatuno
+-gatuno (palavra pouco utilizada)
 gaveta
--gazeta (similar a palavra acima)
 geada
 geleia
 gelo
@@ -732,16 +624,13 @@ gemada
 gemido
 generoso
 gengiva
--genitor (palavra pouco utilizada)
 genoma
 genro
 gerador
 gergelim
 geriatra
--germinal (palavra pouco utilizada)
 gesso
 gestor
--giga (palavra pouco utilizada)
 ginasta
 gincana
 gingado
@@ -750,13 +639,10 @@ girino
 glacial
 glicose
 global
--gnose (palavra pouco utilizada)
 goela
 goiaba
 goleiro
 golfe
--gomo (palavra pouco utilizada)
--gongo (palavra pouco utilizada)
 gordura
 gorjeta
 gorro
@@ -764,7 +650,6 @@ gosma
 gosto
 goteira
 gracejo
--gracioso (palavra pouco utilizada)
 gradual
 grafite
 gralha
@@ -773,39 +658,24 @@ granada
 grato
 graveto
 graxa
--grego (palavra pouco utilizada)
 greve
--grife (palavra pouco utilizada)
 grilo
 gritaria
 grosso
 grudado
 gruta
 guarda
--gueixa (palavra pouco utilizada)
--guelra (palavra pouco utilizada)
 gueto
 guia
--guilda (palavra pouco utilizada)
 guincho
--guisado (palavra pouco utilizada)
--guizo (palavra pouco utilizada)
 gula
--gume (palavra pouco utilizada)
 guru
--gutural (palavra pouco utilizada)
--harpia (palavra pouco utilizada)
 haste
--havana (cidade)
 hectare
--hediondo (palavra negativa)
--hera (palavra pouco utilizada)
 heresia
 hiato
--hibisco (palavra pouco utilizada)
 hidrovia
 hiena
--hindu (palavra pouco utilizada)
 hino
 hipismo
 hipnose
@@ -813,84 +683,61 @@ hipoteca
 histeria
 hoje
 homem
--homicida (palavra negativa)
 honesto
 honrado
 horda
--horrendo (palavra negativa)
 horto
 humorado
 iate
 idade
 ideia
--idem (fonética estranha)
 idoso
--iene (palavra pouco utilizada)
--ignitor (palavra pouco utilizada)
 ignorado
 igreja
 iguana
 ileso
 ilha
--ilibado (palavra pouco utilizada)
 iludido
 ilustre
 imagem
--imantado (palavra pouco utilizada)
 imaturo
 imenso
 imersivo
 iminente
--imitante (palavra pouco utilizada)
 imortal
 impacto
 imperial
 implante
--imposto (é roubo)
 imprensa
--impune (similar a palavra abaixo)
 -imune
 inalador
--inapto (palavra pouco utilizada)
--incauto (palavra pouco utilizada)
 incenso
--inciso (palavra pouco utilizada)
 incolor
--inculto (palavra pouco utilizada)
 indeciso
 indireto
 indolor
 indutor
 ineficaz
--inepto (palavra pouco utilizada)
--inercial (palavra pouco utilizada)
--inexato (palavra pouco utilizada)
--infarto (palavra negativa)
 inferno
 infinito
--influxo (palavra pouco utilizada)
 informal
 infrator
 ingrato
--inhame (palavra pouco utilizada)
 inibido
 inicial
 inimigo
 injetor
 injusto
 inocente
--inodoro (palavra pouco utilizada)
 inovador
 inquieto
 insulto
 integral
 intruso
--inundado (palavra negativa)
 invasor
 inverno
 invicto
 invocado
--iodo (palavra pouco utilizada)
 ioga
 iogurte
 irado
@@ -901,13 +748,8 @@ isca
 isento
 isolado
 isqueiro
--jacente (palavra pouco utilizada)
--jacobino (palavra pouco utilizada)
--jacu (palavra pouco utilizada)
--jade (palavra pouco utilizada)
 jaleco
 jamais
--jambo (palavra pouco utilizada)
 janela
 jangada
 jantar
@@ -924,19 +766,14 @@ jeca
 jegue
 jeito
 jejum
--jenipapo (palavra pouco utilizada)
 joanete
 joelho
 jogada
 jogo
 joio
 jornal
--jorro (palavra pouco utilizada)
--jota (letra escrita por extenso)
 jovem
 juba
--jubileu (palavra pouco utilizada)
--judeu (palavra pouco utilizada)
 judoca
 juiz
 jujuba
@@ -945,16 +782,9 @@ jumento
 junho
 junta
 jurado
--jurema (palavra pouco utilizada)
 juro
--jurubeba (palavra pouco utilizada)
--laboral (palavra pouco utilizada)
--labrador (palavra pouco utilizada)
--lacaio (palavra pouco utilizada)
 lacre
 ladeira
--ladino (palavra pouco utilizada)
--ladrilho (palavra pouco utilizada)
 lagarta
 lagoa
 lajota
@@ -974,10 +804,8 @@ lasca
 lastro
 lataria
 latente
--latim (palavra pouco utilizada)
 latrina
 laudo
-lavado (substituir pelo verbo)
 lavoura
 lavrado
 laxante
@@ -987,32 +815,23 @@ legado
 legenda
 legume
 leigo
--leito (similar a palavra acima)
 leme
 lenda
--lenha (similar a palavra acima)
 leoa
 leque
 lerdo
 lesado
 lesma
--letrado (palavra pouco utilizada)
 levado
 leveza
--lhama (palavra pouco utilizada)
 liberal
 libido
--libra (palavra pouco utilizada)
 ligado
 ligeiro
--limalha (palavra pouco utilizada)
 limbo
--limeira (palavra pouco utilizada)
--limiar (palavra pouco utilizada)
 limpo
 limusine
 linear
--linfa (palavra pouco utilizada)
 linhagem
 liquidez
 listagem
@@ -1021,7 +840,6 @@ lividez
 livro
 lixa
 lixeiro
--lixo (palavra negativa/similar a lixa)
 lobista
 locador
 locutor
