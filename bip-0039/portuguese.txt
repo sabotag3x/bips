@@ -845,13 +845,13 @@ logo
 loja
 lombo
 lona
-longo
+-longo (similar a lombo)
 lontra
 lorde
 lorota
-losango
+losango (palavra pouco utilizada)
 lotado
-loteca
+loteca (palavra pouco utilizada)
 loucura
 lousa
 luar
@@ -862,7 +862,7 @@ luneta
 lustre
 lutador
 luxo
-luzente
+luzente (palavra pouco utilizada)
 macaco
 macete
 machado
@@ -882,20 +882,20 @@ maior
 mais
 malabar
 maldito
-malfeito
+-malfeito (palavra negativa)
 malhado
-malta
+-malta (país)
 maluco
 malvado
 mamata
 mamona
 manada
-mancebo
+-mancebo (palavra pouco utilizada)
 mandato
-maneta
+-maneta (palavra negativa)
 mangue
-manha
-manilha
+-manha (similar a manhã)
+manilha (palavra pouco utilizada)
 manopla
 mantra
 mapeado
@@ -909,36 +909,36 @@ maroto
 marreco
 martelo
 marujo
-mascate
+-mascate (palavra pouco utilizada)
 mastro
 matagal
 materno
 matinal
 mato
-matrona
+matrona (palavra pouco utilizada)
 maxilar
-mazela
+-mazela (palavra negativa)
 medalha
 medida
 medonho
-medular
-megera
+-medular  (palavra pouco utilizada)
+-megera (palavra negativa)
 meia
 meigo
 melado
 meleca
 melhor
 membro
-mendigo
+-mendigo (palavra negativa)
 menos
 mensagem
 mental
 mercador
 mesa
-mesada
-mescla
+-mesada (similar a palavra acima)
+-mescla (trocar pelo verbo)
 mesmo
-messias
+-messias (palavra pouco utilizada)
 mestre
 metade
 meteoro
@@ -955,23 +955,23 @@ mingau
 minhoca
 ministro
 minoria
-minuta
+-minuta (palavra pouco utilizada)
 miolo
-miopia
+-miopia (palavra negativa)
 mirante
-mirrado
+-mirrado (palavra negativa)
 miudeza
-mixaria
-mocinho
+-mixaria (palavra negativa)
+-mocinho (similar a moço/diminutivo)
 modal
 modem
 modismo
 moedor
 moela
-mogno
+-mogno (palavra pouco utilizada)
 moinho
 moita
-molar
+-molar (similar a amolar)
 moldura
 moleira
 molho
@@ -983,145 +983,145 @@ moqueca
 moradia
 morcego
 mordomo
-morfina
+-morfina (palavra negativa)
 morno
 morse
-morte
+-morte (palavra negativa)
 mosaico
-mosquete
+-mosquete (palavra pouco utilizada)
 mostarda
 motel
-motivado
+-motivado (trocar pelo verbo)
 moto
-motriz
+-motriz (palavra pouco utilizada)
 muamba
-mudado
-mudez
-mugido
-mulambo
+-mudado (trocar pelo verbo)
+-mudez (palavra pouco utilizada)
+-mugido (trocar pelo verbo)
+-mulambo (palavra pouco utilizada)
 mulher
 mundial
 munheca
 munido
 muralha
 murcho
-murro
+-murro (similar a muro)
 muscular
 museu
 musical
-mutreta
+-mutreta (palavra negativa)
 nabo
 nacional
 nadador
 naja
 namoro
-nanismo
+-nanismo (palavra pouco utilizada)
 nanquim
-naquilo
-narrado
-nascido
+-naquilo (similar a aquilo)
+-narrado (mudar para verbo)
+-nascido (mudar para verbo)
 natalino
 nato
 natureza
-nauseado
+-nauseado (similar a nausea)
 navalha
 navio
 neblina
 nebuloso
-nefasto
-negado
+-nefasto (palavra pouco utilizada)
+-negado (palavra pouco utilizada)
 negrito
-nenhum
-neologia
-neonatal
-neoprene
+-nenhum (palavra negativa)
+-neologia (palavra pouco utilizada)
+-neonatal (palavra pouco utilizada)
+-neoprene (palavra pouco utilizada)
 nervoso
-netuno
+-netuno (nome)
 neural
-neutrino
+-neutrino (palavra pouco utilizada)
 nevado
-nexo
+-nexo (similar a anexo)
 ninho
-nitrato
-nivelado
+-nitrato (palavra pouco utilizada)
+-nivelado (mudar para verbo)
 nobreza
 noite
 noivo
-nojento
-nojo
-nomeado
-nominal
-nono
+-nojento (palavra negativa)
+-nojo (palavra negativa)
+-nomeado (mudar para verbo)
+-nominal (similar a palavra acima)
+-nono (número escrito por extenso)
 nora
 nordeste
-norteado
+-norteado (similar a palavra acima)
 nosso
 noturno
-noutro
-novelo
+-noutro (palavra pouco utilizada)
+-novelo (palavra pouco utilizada/similar a palavra abaixo)
 novilho
 novo
 nuance
 nublado
 nudez
-nulidade
+-nulidade (palavra pouco utilizada)
 numeral
-nunca
+-nunca (palavra negativa)
 nupcial
-nutrido
+-nutrido (mudar para verbo)
 nuvem
 obcecado
 objetivo
 obrigado
-obscuro
+-obscuro (palavra negativa)
 obstetra
-obtido
-obtuso
-ocarina
+-obtido (mudar para verbo)
+-obtuso (palavra pouco utilizada)
+-ocarina (palavra pouco utilizada)
 oceano
 ocidente
 ocioso
-ocluso
-octano
+-ocluso (palavra pouco utilizada)
+-octano (palavra pouco utilizada)
 oculista
 ocupado
-odiado
-odalisca
-odioso
+-odiado (palavra negativa)
+-odalisca (palavra pouco utilizada)
+-odioso (palavra negativa)
 ofegante
-ofensivo
+-ofensivo (palavra negativa)
 oficina
 ofuscado
 ogiva
-oitava
-oitenta
-ojeriza
+-oitava (número escrito por extenso)
+-oitenta (número escrito por extenso)
+-ojeriza (palavra pouco utilizada)
 olaria
 oleoso
-olheiro
+-olheiro (similar a palavra abaixo)
 olho
-olifante
-oligarca
+-olifante (palavra pouco utilizada)
+-oligarca (palavra pouco utilizada)
 olimpo
 oliveira
 ombro
 omelete
-omisso
+-omisso (palavra negativa)
 ondulado
-oneroso
+-oneroso (palavra negativa)
 ontem
-onze
+-onze (número escrito por extenso)
 opala
 opcional
 operador
 oponente
 oportuno
 oposto
-opressor
-optativo
-opulento
-orbe
-ordinal
+-opressor (palavra negativa)
+-optativo (palavra pouco utilizada)
+-opulento (palavra pouco utilizada)
+-orbe (palavra pouco utilizada)
+-ordinal (palavra pouco utilizada)
 ordem
 orelha
 orfanato
@@ -1135,21 +1135,21 @@ ossada
 osso
 otimismo
 ouro
-ourives
-ousado
+-ourives (palavra pouco utilizada)
+-ousado (mudar para ousadia)
 outono
-outrora
+-outrora (palavra pouco utilizada)
 outubro
 ouvido
-ovalado
+-ovalado (palavra pouco utilizada)
 ovelha
-oxidado
+-oxidado (palavra pouco utilizada)
 pacato
 pacote
-pactual
+-pactual (mudar para pacto)
 padaria
 padrasto
-pagem
+-pagem (palavra pouco utilizada)
 pagode
 painel
 paiol
@@ -1165,10 +1165,10 @@ pancada
 panela
 pantanal
 papagaio
-papiro
+-papiro (palavra pouco utilizada)
 paquera
 parado
-paridade
+-paridade (palavra pouco utilizada)
 parto
 pasmo
 passado
@@ -1177,29 +1177,29 @@ patamar
 patente
 patrono
 paulada
-pautado
+-pautado (palavra pouco utilizada)
 pavio
-pavor
+-pavor (palavra negativa)
 pecador
 pedinte
 pedra
 pegada
 peito
 peixe
-pelanca
-pelota
+-pelanca (palavra pouco utilizada)
+-pelota (palavra pouco utilizada)
 peludo
-penacho
+-penacho (palavra pouco utilizada)
 penca
 peneira
 penhor
-pensado
+-pensado (mudar para verbo)
 pente
 penugem
-pequisa
+-pequisa (typo)
 peralta
-perda
-perene
+-perda (palavra negativa)
+-perene (palavra pouco utilizada)
 perfeito
 perito
 peroba
@@ -1208,24 +1208,24 @@ pesado
 pescado
 pesquisa
 pessoal
-peste
+-peste (palavra negativa)
 peteca
 piada
 picado
-piegas
-pigarro
-pigmeu
+-piegas (palavra pouco utilizada)
+-pigarro (palavra negativa)
+-pigmeu (palavra pouco utilizada)
 pilastra
 pileque
 pilhado
 pimenta
 pincel
-piolho
+-piolho (palavra negativa)
 pior
-pipeta
+-pipeta (palavra pouco utilizada)
 pipoca
 piquete
-pirado
+-pirado (palavra negativa)
 pires
 pirueta
 pisciano
@@ -1240,91 +1240,91 @@ plugue
 pneu
 pobreza
 poda
-poderio
-podre
+-poderio (palavra pouco utilizada)
+-podre (palavra negativa)
 poeira
-poente
-pois
+-poente (similar a ponte)
+-pois (palavra muito comum/similar a pôs)
 poleiro
 polia
 polpa
-poluente
+-poluente (palavra negativa)
 pomar
 pombo
 poncho
-pontal
+-pontal (palavra pouco utilizada)
 porco
-porque
-porrada
+-porque (pode causar confusão com por que/porquê)
+-porrada (palavra negativa)
 porta
-posse
+-posse (similar a pose)
 postal
 potente
 pouco
-poupado
+-poupado (mudar para verbo)
 pouso
-povoado
-praga
+-povoado (mudar para verbo)
+-praga (palavra negativa)
 praia
-pranto
+-pranto (palavra negativa)
 prato
 praxe
 prazo
 preciso
 predito
-prefixo
-pregado
-preparo
+-prefixo (similar a preciso)
+-pregado (mudar para verbo)
+-preparo (mudar para verbo)
 pressa
 preto
-prezado
+-prezado (mudar para verbo)
 primata
 princesa
-prisma
+-prisma (palavra pouco utilizada)
 privado
 processo
 produto
 profeta
 proibido
 projeto
-prolixo
+-prolixo (palavra pouco utilizada)
 propina
 prosa
 proveta
-prumo
+-prumo (palavra pouco utilizada)
 pseudo
-psicose
-psiu
+-psicose (palavra negativa)
+-psiu (palavra pouco utilizada)
 pudim
-pujante
+-pujante (palavra pouco utilizada)
 pulo
 punhado
-punido
+-punido (mudar para verbo)
 pupilo
 pureza
-puxado
+-puxado (mudar para verbo)
 quadra
 qual
 quantia
 quarto
 quase
 quati
-quebrado
+-quebrado (mudar para verbo)
 queda
 queijo
 quente
 querubim
 quesito
 quiabo
--quiche
-quilha
-quimera
+-quiche (typo)
+-quilha (similar a quina)
+-quimera (palavra pouco utilizada)
 quina
-quorum
+-quorum (palavra pouco utilizada)
 rabada
 rabisco
-rachado
-racismo
+-rachado (mudar para verbo)
+-racismo (palavra negativa)
 radial
 rainha
 raio
@@ -1334,53 +1334,53 @@ ralado
 ralo
 rancor
 ranhura
-ranzinza
+-ranzinza (palavra negativa)
 rapel
 rapidez
-raptado
+-raptado (palavra negativa)
 raquete
 raro
 rasante
 raso
 rasteira
 ratazana
--ravioli
-realejo
+-ravioli (typo)
+-realejo (palavra pouco utilizada)
 reator
-rebarba
-rebento
-recanto
+-rebarba (palavra pouco utilizada)
+-rebento (palavra pouco utilizada)
+-recanto (palavra pouco utilizada)
 recente
-recife
+-recife (cidade)
 recuo
 redator
 rede
-redoma
+-redoma (palavra pouco utilizada)
 redutor
-refeito
-refluxo
+-refeito (similar a prefeito)
+-refluxo (palavra negativa)
 regalia
 regente
 regime
 reinado
 reitor
-relapso
-reles
-relva
-remanso
+-relapso (palavra pouco utilizada)
+-reles (palavra pouco utilizada)
+-relva (palavra pouco utilizada)
+-remanso (palavra pouco utilizada)
 remendo
-remorso
-renal
-rendado
-renome
+-remorso (palavra negativa)
+-renal (palavra pouco utilizada)
+-rendado (mudar para renda)
+-renome (palavra pouco utilizada)
 rente
 repente
 repleto
 repouso
-repulsa
+-repulsa (palavra negativa)
 resenha
-resistor
-resma
+-resistor (palavra pouco utilizada)
+-resma (palavra pouco utilizada)
 resposta
 ressaca
 resumo
@@ -1390,11 +1390,11 @@ reversa
 revisor
 revolta
 riacho
-ribeiro
+-ribeiro (palavra pouco utilizada)
 ricota
-rifado
+-rifado (palavra pouco utilizada)
 rigidez
-rimado
+-rimado (mudar para rima)
 ringue
 ripa
 risada
@@ -1403,64 +1403,64 @@ risonho
 rixa
 robalo
 robustez
-roceiro
+-roceiro (palavra pouco utilizada)
 rochedo
-rodado
+-rodado (mudar para rodar)
 rodeio
 rodovia
 roedor
-rogado
+-rogado (palavra pouco utilizada)
 rolante
-roldana
+-roldana (palavra pouco utilizada)
 roleta
 rolha
--rolinha
-rolo
+-rolinha (palavra pouco utilizada)
+-rolo (similar a rolar)
 rombo
-romeno
+-romeno (palavra pouco utilizada)
 roseira
-rosbife
+-rosbife (palavra pouco utilizada)
 rosto
 rota
 roteiro
 rotina
-roubo
+-roubo (palavra negativa/similar a rouco)
 rouco
 roupa
 roxo
 rubi
 rubro
-ruela
+-ruela (similar a arruela)
 rugido
-ruidoso
-ruim
+-ruidoso (palavra pouco utilizada)
+-ruim (palavra negativa)
 ruivo
 rumo
-runa
+-runa (palavra pouco utilizada)
 sabatina
 sabor
 sabugo
 sacada
-saciado
+-saciado (mudar para verbo)
 sacola
 sadio
 safena
 safira
-safo
+-safo (palavra pouco utilizada)
 safra
 sagui
 saibro
 saideira
-saiote
+-saiote (palavra pouco utilizada)
 salada
 saleiro
 salgado
 saliva
-salobro
--salsinha
-salteado
-salve
-salubre
+salobro (palavra pouco utilizada)
+-salsinha (mudar para salsa)
+-salteado (mudar para verbo)
+-salve (mudar para verbo)
+-salubre (palavra pouco utilizada)
 sanfona
 sangue
 sapato
@@ -1475,91 +1475,91 @@ saudade
 saxofone
 sazonal
 sebo
-secagem
-secretor
-secto
+secagem (mudar para verbo)
+secretor (palavra pouco utilizada)
+secto (palavra pouco utilizada)
 secular
 seda
 sedento
 sediado
-sedoso
+sedoso (palavra pouco utilizada)
 sedutor
 segmento
 segredo
-segunda
+segunda (número escrito por extenso)
 seio
-seita
+seita (similar a palavra abaixo)
 seiva
-seixo
-seja
-selado
+seixo (palavra pouco utilizada)
+seja (verbo ser)
+selado (mudar para verbo)
 seleto
-selim
+selim (palavra pouco utilizada)
 selo
 selvagem
 semanal
 semente
-semitom
+semitom (palavra pouco utilizada)
 senador
 senhor
-senil
-seno
-sentado
+senil (palavra pouco utilizada)
+seno (palavra pouco utilizada)
+sentado (mudar para verbo)
 sentido
-senzala
+senzala (palavra negativa)
 septo
 sequer
 sereia
 seringa
 serra
 servo
-sete
+sete (número escrito por extenso)
 setor
--sevilha
+-sevilha (cidade)
 sexteto
 sexual
 sigilo
-sigma
+-sigma (palavra pouco utilizada)
 silhueta
 silo
-silvo
+-silvo (palavra pouco utilizada)
 simetria
 simpatia
-simulado
+simulado (mudar para verbo)
 sinal
 sincero
-sineta
+-sineta (palavra pouco utilizada)
 singelo
 sinopse
 sintoma
 sirene
 siri
-siso
-sitiado
+-siso (palavra pouco utilizada)
+-sitiado (similar a palavra abaixo)
 situado
 soberba
 sobra
-socado
+-socado (mudar para verbo)
 socorro
-sofrido
+-sofrido (palavra negativa)
 sogro
 soja
 solado
 solda
-solene
-solfejo
+-solene (palavra pouco utilizada)
+-solfejo (palavra pouco utilizada)
 solidez
 solteiro
 soma
 sombrio
-somente
+-somente (similar a semente)
 sonata
-sondado
-sonegado
+-sondado (mudar para verbo)
+-sonegado (mudar para verbo)
 sonhador
 sono
-sonso
-sopapo
+-sonso (similar a palavra anterior)
+-sopapo (palavra pouco utilizada)
 soprano
 soquete
 soro
@@ -1568,44 +1568,44 @@ sorvete
 sossego
 sotaque
 sovado
-sovina
+-sovina (palavra pouco utilizada)
 sozinho
-status
-suado
-subida
+-status (palavra pouco utilizada)
+-suado (mudar para verbo/já tem o verbo)
+-subida (mudar para verbo)
 submerso
-suborno
+-suborno (palavra negativa)
 subsolo
 sucata
 sucesso
-sucinto
+-sucinto (palavra pouco utilizada)
 suco
 sucuri
 sudeste
-sueco
+-sueco (palavra pouco utilizada)
 sufixo
-sugado
-suicida
+-sugado (mudar para verbo)
+-suicida (palavra negativa)
 sujeito
-sujo
-sulco
+-sujo (mudar para verbo)
+-sulco (similar a suco)
 sulfato
 sunga
 suor
-superego
+superego (palavra pouco utilizada)
 supino
 suposto
-surdez
+-surdez (palavra negativa)
 surreal
-surto
+-surto (palavra negativa)
 suspiro
 sustento
 sutileza
 tabela
-tabica
+-tabica (palavra pouco utilizada)
 tablado
 tabuada
-tacanha
+-tacanha (palavra pouco utilizada)
 tacho
 tagarela
 taipa
@@ -1616,19 +1616,19 @@ talvez
 tamanho
 tamborim
 tampa
-tanga
+-tanga (similar a palavra acima)
 tanto
-tapado
+-tapado (mudar para verbo)
 tapioca
-tapume
-tarado
+-tapume (palavra pouco utilizada)
+-tarado (palavra negativa)
 tardio
 tarefa
-tarjado
+-tarjado (palavra pouco utilizada)
 tarraxa
 tarugo
-tato
-tatu
+-tato (similar a tatu)
+-tatu (similar a tato)
 taxista
 teatral
 tecido
@@ -1640,20 +1640,20 @@ temporal
 tenda
 tenente
 tenor
-tenro
+-tenro (palavra pouco utilizada)
 tensor
-tento
+-tento (mudar para verbo)
 teoria
 terno
 terreno
 tese
 tesoura
 testado
-textual
+-textual (palavra pouco utilizada)
 texugo
 tiara
 tigela
--tijela
+-tijela (typo)
 tijolo
 tingido
 tintura
@@ -1661,48 +1661,48 @@ tique
 tiragem
 titular
 toalha
-tocador
+-tocador (palavra pouco utilizada)
 tocha
 toco
 tofu
-tolerado
-tolo
+-tolerado (mudar para verbo)
+-tolo (palavra negativa)
 tomada
 tombo
 tomilho
-tona
+-tona (palavra pouco utilizada)
 tonel
 tontura
-topada
+-topada (mudar para verbo)
 topete
 topo
 tora
 torcido
 torneio
-torpe
+-torpe (palavra pouco utilizada)
 torque
-torrente
+-torrente (palavra pouco utilizada)
 torto
 tosa
-tosse
-tostado
+-tosse (palavra negativa)
+-tostado (mudar para verbo)
 touca
 touro
 toxina
 trabalho
 tradutor
-traidor
+-traidor (palavra negativa)
 tralha
 trama
-transe
+-transe (mudar para verbo)
 trapo
 traseiro
 trator
-trava
+-trava (mudar para verbo)
 treco
 tremor
-trepado
-treta
+-trepado (mudar para verbo)
+-treta (palavra pouco utilizada/similar a tetra)
 trevo
 triagem
 tribo
@@ -1710,19 +1710,19 @@ triciclo
 tridente
 trilho
 trilogia
-trinta
+-trinta (número escrito por extenso)
 triplo
-tristeza
+-tristeza (palavra negativa)
 triunfal
 troco
 trombeta
-trouxa
+-trouxa (palavra negativa)
 trova
-trufo
+-trufo (similar a palavra abaixo)
 trunfo
 truque
 truta
-tuba
+-tuba (palavra pouco utilizada)
 tucano
 tudo
 tulipa
@@ -1733,20 +1733,20 @@ turco
 turma
 turquesa
 turvo
-tutano
+-tutano (palavra pouco utilizada)
 tutorial
-uivo
+-uivo (mudar para verbo)
 ultra
 umbanda
 umbigo
 umidade
 unha
 unidade
-unifilar
+-unifilar (palavra pouco utilizada)
 unissex
-untado
-urano
-uretra
+-untado (mudar para verbo)
+-urano (palavra pouco utilizada)
+-uretra (palavra pouco utilizada)
 urina
 urro
 urso
@@ -1759,7 +1759,7 @@ vacina
 vadio
 vaga
 vagem
-vaia
+-vaia (palavra negativa/similar a vala)
 vaidade
 vala
 valente
@@ -1769,22 +1769,22 @@ vantagem
 vaqueiro
 varanda
 varejo
-variado
+-variado (mudar para verbo)
 vasilha
-vassalo
+-vassalo (palavra pouco utilizada)
 vasto
-vazante
+-vazante (mudar para verbo)
 vazio
 veado
-vedado
+-vedado (mudar para verbo)
 vegetal
 veia
-velado
+-velado (mudar para vela)
 veleiro
 velhice
 veludo
-vendeta
--veneza
+-vendeta (palavra pouco utilizada)
+-veneza (cidade)
 venoso
 ventre
 verbete
@@ -1793,21 +1793,21 @@ vereador
 vergonha
 verme
 verniz
-verruga
-versado
+-verruga (palavra negativa)
+-versado (mudar para verbo)
 vesgo
 vespa
 vestido
 vetor
-vexame
+-vexame (palavra negativa)
 viaduto
 viagem
 viatura
-vibrado
+-vibrado (mudar para verbo)
 videira
 vidro
 viela
--viena
+-viena (cidade)
 viga
 vigente
 vigia
@@ -1816,49 +1816,49 @@ vinco
 vinda
 vinheta
 violeta
-virado
+-virado (mudar para verbo)
 virgem
 virilha
 virtude
-visada
+-visada (mudar para verbo)
 viseira
 visto
-vitela
+-vitela (palavra pouco utilizada)
 vitrola
 viveiro
 vividez
 vizinho
 voador
-vocativo
+-vocativo (palavra pouco utilizada)
 vodca
 vogal
 volante
 voleio
-volta
+-volta (mudar para verbo)
 vontade
-vosso
-votante
-vozerio
+-vosso (similar a nosso)
+-votante (mudar para verbo)
+-vozerio (palavra pouco utilizada)
 vulto
 xadrez
 xarope
 xerife
-xerox
-xisto
-xogunato
-zabumba
-zarolho
+-xerox (mesmo nome da marca xerox)
+-xisto (palavra pouco utilizada)
+-xogunato (palavra pouco utilizada)
+-zabumba (palavra pouco utilizada)
+-zarolho (palavra negativa)
 zaga
 zebu
 zelador
-zeloso
+-zeloso (mudar para verbo)
 zepelim
-zerado
-zigoto
-zodiacal
+-zerado (mudar para verbo)
+-zigoto (palavra pouco utilizada)
+-zodiacal (palavra pouco utilizada)
 zoeira
-zombaria
-zoneado
-zonzo
+zombaria (mudar para verbo)
+zoneado (mudar para zona)
+-zonzo (palavra pouco utilizada)
 zumbido
-zunido
+-zunido (similar a palavra acima)
