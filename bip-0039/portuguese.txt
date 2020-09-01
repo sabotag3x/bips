@@ -51,6 +51,7 @@ ambiente
 ameixa
 amido
 ampola
+amor
 amostra
 anarquia
 anchova
@@ -118,10 +119,11 @@ bagre
 bagulho
 bainha
 bairro
-balada (Duplicated in czech)
+bala
 baleia
 balsa
 bambu
+banco
 banho
 banquete
 barata
@@ -131,6 +133,7 @@ barraca
 barulho
 baseado
 basta
+bateria
 batata
 batom
 baunilha
@@ -192,7 +195,6 @@ broto
 bruma
 bruxo
 bucha
-bula
 bueiro
 bule
 buraco
@@ -203,7 +205,8 @@ buzina
 cabana
 cabelo
 cabo
-cacho
+cabra
+cachorro
 cacique
 cadeia
 cafona
@@ -213,6 +216,7 @@ calha
 camelo
 camisa
 canguru
+caneta
 canhoto
 canjica
 canoa
@@ -535,6 +539,7 @@ feira
 feitio
 feixe
 felino
+feliz
 feminino
 feno
 fera
@@ -561,7 +566,6 @@ flora
 fluido
 fluxo
 focinho
-foco
 fogo
 foguete
 foice
@@ -683,7 +687,7 @@ hoje
 homem
 honesto
 honrado
-horda (duplicate in czech)
+humilde
 horto
 humorado
 iate
@@ -750,7 +754,6 @@ jaleco
 jamais
 janela
 jangada
-jantar (duplicate in czech)
 japona
 jaqueta
 jararaca
@@ -780,6 +783,7 @@ jumento
 junho
 junta
 jurado
+jurista
 juro
 lacre
 ladeira
@@ -810,9 +814,11 @@ laxante
 lazer
 lebre
 legado
-legenda (duplicate in czech)
+legista
 legume
 leigo
+leite
+lembrete
 leme
 lenda
 leoa
@@ -826,7 +832,6 @@ liberal
 libido
 ligado
 ligeiro
-limbo
 limpo
 limusine
 linear
@@ -838,13 +843,14 @@ lividez
 livro
 lixa
 lixeiro
-lobista (duplicate in czech)
+lobo
 locador
 locutor
 logo
 loja
 lombo
 lona
+longe
 lontra
 lorde
 lorota
@@ -878,6 +884,7 @@ maior
 mais
 malabar
 maldito
+maleta
 malhado
 maluco
 malvado
@@ -914,6 +921,7 @@ melado
 meleca
 melhor
 membro
+menino
 menos
 mensagem
 mental
@@ -938,6 +946,7 @@ minhoca
 ministro
 minoria
 miolo
+mito
 mirante
 miudeza
 modal
@@ -965,7 +974,6 @@ mostarda
 motel
 moto
 muamba
-mudar (Duplicate in spanish)
 mugir
 mulher
 mundial
@@ -973,6 +981,7 @@ munheca
 munido
 muralha
 murcho
+muro
 muscular
 museu
 musical
@@ -982,7 +991,7 @@ nadador
 naja
 namoro
 nanquim
-narrar (duplicate in spanish)
+nariz
 nascer
 natalino
 nato
@@ -1001,7 +1010,7 @@ nobreza
 noite
 noivo
 nomear
-nora (duplicate in czech)
+nojo
 nordeste
 nosso
 noturno
@@ -1063,7 +1072,6 @@ ouvido
 ovelha
 pacato
 pacote
-pacto (duplicate in spanish)
 padaria
 padrasto
 pagode
@@ -1083,6 +1091,7 @@ pantanal
 papagaio
 paquera
 parado
+parede
 parto
 pasmo
 passado
@@ -1099,10 +1108,10 @@ pegada
 peito
 peixe
 peludo
+pena
 penca
 peneira
 penhor
-pensar (Duplicate in Spanish)
 pente
 penugem
 peralta
@@ -1123,6 +1132,7 @@ pilhado
 pimenta
 pincel
 pior
+pipa
 pipoca
 piquete
 pires
@@ -1234,6 +1244,7 @@ rente
 repente
 repleto
 repouso
+reprovado
 resenha
 resposta
 ressaca
@@ -1256,7 +1267,6 @@ rixa
 robalo
 robustez
 rochedo
-rodar (duplicate in spanish)
 rodeio
 rodovia
 roedor
@@ -1288,15 +1298,16 @@ safena
 safira
 safra
 sagui
+saia
 saibro
 saideira
 salada
 saleiro
 salgado
 saliva
-salsa (duplicate in spanish)
+salsicha
 saltear
-salvar (duplicate in spanish)
+sabotagem
 sanfona
 sangue
 sapato
@@ -1379,9 +1390,9 @@ sossego
 sotaque
 sovado
 sozinho
-subir (duplicate in spanish)
 submerso
 subsolo
+subversivo
 sucata
 sucesso
 suco
@@ -1425,11 +1436,11 @@ tecido
 teclado
 teia
 telhado
+temer
 temido
 temporal
 tenda
 tenente
-tenor (duplicate in czech)
 tensor
 tentar
 teoria
@@ -1452,12 +1463,12 @@ tocha
 toco
 tofu
 tolerar
+tolice
 tomada
 tombo
 tomilho
 tonel
 tontura
-topar (duplicate in spanish)
 topete
 topo
 tora
@@ -1475,13 +1486,13 @@ tradutor
 tralha
 trama
 transar
+trajeto
 trapo
 traseiro
 trator
 travar
 treco
 tremor
-trepar (duplicate in spanish)
 trevo
 triagem
 tribo
@@ -1500,11 +1511,11 @@ truta
 tucano
 tudo
 tulipa
-tundra (duplicate in czech)
 tupi
 turbo
 turco
 turma
+turno
 turquesa
 turvo
 tutorial
@@ -1515,7 +1526,6 @@ umbigo
 umidade
 unha
 unidade
-unissex
 urina
 urro
 urso
@@ -1537,7 +1547,7 @@ vantagem
 vaqueiro
 varanda
 varejo
-variar (duplicate in spanish)
+vargem
 vasilha
 vasto
 vazar
@@ -1566,9 +1576,9 @@ vetor
 viaduto
 viagem
 viatura
-vibrar (duplicate in spanish)
 videira
 vidro
+vieira
 viela
 viga
 vigente
@@ -1595,7 +1605,7 @@ volante
 voleio
 voltar
 vontade
-votar (duplicate in spanish)
+votante
 vulto
 xadrez
 xarope
@@ -1606,6 +1616,7 @@ zelador
 zepelim
 zerar
 zoeira
+zoologico
 zombar
-zona (duplicate in spanish)
+zonzar
 zumbido
