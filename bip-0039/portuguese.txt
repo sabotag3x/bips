@@ -351,7 +351,6 @@ delator
 delegado
 demanda
 demolido
--dengue (palavra negativa)
 dente
 depenado
 depressa
@@ -615,7 +614,6 @@ garimpo
 garoto
 garrafa
 gasto
--gatuno (palavra pouco utilizada)
 gaveta
 geada
 geleia
