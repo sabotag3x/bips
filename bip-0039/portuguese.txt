@@ -209,7 +209,6 @@ bolha
 boliche
 bolso
 bonde
-bondoso
 boneco
 bonsai
 boreal
@@ -573,7 +572,6 @@ feio
 feira
 feitio
 feixe
-felicidade
 felino
 feminino
 feno
@@ -723,7 +721,6 @@ homem
 honesto
 honrado
 horto
-humildade
 humorado
 iate
 idade
@@ -863,7 +860,6 @@ lesma
 levado
 leveza
 liberal
-liberdade
 libido
 ligado
 ligeiro
@@ -950,7 +946,6 @@ medida
 medonho
 meia
 meigo
-melado
 melancia
 meleca
 melhor
@@ -998,7 +993,6 @@ monge
 monstro
 monte
 moqueca
-moradia
 morango
 morcego
 mordomo
@@ -1106,7 +1100,6 @@ ovelha
 pacato
 pacote
 padaria
-padrasto
 padrinho
 pagode
 painel
