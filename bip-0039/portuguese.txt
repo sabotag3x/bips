@@ -11,8 +11,8 @@ absurdo
 abutre
 acaso
 aceitar
-acetona
 acerola
+acetona
 achar
 acidez
 acima
@@ -43,7 +43,6 @@ ajudar
 alameda
 alarme
 alcatra
-
 aldeia
 alecrim
 alegria
@@ -82,7 +81,6 @@ anjo
 anotado
 ansioso
 anta
-
 antigo
 anzol
 apache
@@ -137,7 +135,6 @@ avante
 aveia
 avental
 avesso
-
 aviador
 avulso
 axila
@@ -161,7 +158,6 @@ baioneta
 bairro
 baixo
 bala
-
 baleia
 baliza
 balsa
@@ -173,7 +169,6 @@ banho
 banquete
 barata
 barbado
-
 barraca
 barulho
 baseado
@@ -184,7 +179,6 @@ bateria
 batom
 baunilha
 beato
-
 beco
 beijo
 beira
@@ -214,11 +208,8 @@ bitola
 bizarro
 blefe
 bloco
-
 boato
 bobagem
-
-
 bocejo
 bochecha
 bodas
@@ -232,7 +223,6 @@ bolha
 boliche
 bolo
 bolso
-
 bonde
 boneco
 bonita
@@ -240,13 +230,11 @@ bonsai
 borda
 boreal
 borracha
-
 bossa
 botina
 bovino
 boxe
 brado
-
 brasil
 braveza
 breu
@@ -265,7 +253,6 @@ bula
 bule
 buraco
 burrice
-
 busto
 buzina
 cabana
@@ -328,7 +315,6 @@ centena
 cera
 cereja
 cerrado
-
 cerveja
 cevada
 chacota
@@ -356,10 +342,7 @@ cinto
 cinza
 ciranda
 cisco
-
-
 clero
-
 clipe
 clique
 clone
@@ -367,7 +350,6 @@ clube
 coado
 coala
 cobertor
-
 cocada
 coceira
 codorna
@@ -441,7 +423,6 @@ debate
 deboche
 decimal
 declive
-
 dedal
 dedicado
 deduzir
@@ -470,7 +451,6 @@ desigual
 desmaio
 desova
 despesa
-
 desvio
 detento
 detrito
@@ -481,20 +461,16 @@ devotado
 dezena
 diagrama
 dialeto
-
 diante
 dica
 difuso
-
 dilatado
 dinamite
 dinheiro
 diocese
 direto
-
 disfarce
 disparo
-
 disquete
 distante
 ditador
@@ -521,7 +497,6 @@ dreno
 drible
 drinque
 dublado
-
 duende
 duplo
 duquesa
@@ -530,20 +505,22 @@ duvidoso
 eclipse
 ecoante
 ecologia
-
+ecomuseu
 edital
 educado
 efeito
 efetivo
+eficaz
 eixo
-
+elaborar
+elegante
 eleitor
-
 elenco
 elevador
 elfo
+eliminar
+elite
 elitismo
-
 embaixo
 embargo
 embolado
@@ -551,8 +528,9 @@ embrulho
 embutido
 emenda
 emissor
-
 empada
+empatia
+empenho
 empinado
 emprego
 empuxo
@@ -560,9 +538,9 @@ emulador
 encaixe
 encenado
 enchente
+encontro
 encosto
 encrenca
-
 enfeite
 enfim
 engajado
@@ -571,10 +549,8 @@ engenho
 engomado
 enguia
 enjoado
-
 enquanto
 enquete
-
 enrolado
 ensaio
 ensino
@@ -626,8 +602,6 @@ estofado
 estrela
 estudo
 etanol
-
-
 etiqueta
 euforia
 evasivo
@@ -699,12 +673,10 @@ fita
 fivela
 flamingo
 flanela
-
-
 flerte
 floco
-floreio
 flora
+floreio
 fluido
 fluxo
 focinho
@@ -757,7 +729,6 @@ galho
 galinha
 galocha
 ganho
-
 garfo
 gargalo
 garimpo
@@ -794,7 +765,6 @@ goiaba
 goleiro
 golfe
 gordura
-
 gorjeta
 gorro
 gosma
@@ -821,7 +791,6 @@ guaxinim
 gueto
 guia
 guincho
-
 gula
 guru
 hamster
@@ -842,7 +811,6 @@ holofote
 homem
 honesto
 honrado
-
 horto
 hospital
 humorado
@@ -907,7 +875,6 @@ isento
 isolado
 isopor
 isqueiro
-
 jaleco
 jamais
 janela
@@ -919,7 +886,6 @@ jardim
 jarro
 jasmim
 jato
-
 javali
 jazida
 jeca
@@ -944,7 +910,6 @@ junta
 jurado
 jurista
 juro
-
 lacre
 ladeira
 lagarta
@@ -955,7 +920,6 @@ lambari
 lamento
 lampejo
 lanche
-
 lapela
 lapidar
 lapso
@@ -985,7 +949,6 @@ leme
 lenda
 lente
 leoa
-
 leque
 lerdo
 lesado
@@ -1116,7 +1079,6 @@ minoria
 miolo
 mirante
 miudeza
-
 modal
 modem
 modismo
@@ -1163,7 +1125,6 @@ nadador
 naja
 namoro
 nanquim
-
 nascer
 natalino
 nato
@@ -1238,7 +1199,6 @@ ornado
 orvalho
 ossada
 osso
-
 otimismo
 ouro
 ousadia
@@ -1263,7 +1223,6 @@ palmada
 pamonha
 pampa
 pancada
-
 panela
 pantanal
 papagaio
@@ -1273,8 +1232,6 @@ parado
 parcial
 pardal
 parede
-
-
 parto
 pasmo
 passado
@@ -1294,7 +1251,6 @@ peludo
 penca
 peneira
 penhor
-
 pente
 penugem
 pequeno
@@ -1376,7 +1332,6 @@ prosa
 proveta
 pseudo
 pudim
-
 pulo
 pulseira
 punhado
@@ -1538,7 +1493,6 @@ septo
 sequer
 sereia
 seringa
-
 serra
 servo
 setor
@@ -1577,7 +1531,6 @@ sono
 soprano
 soquete
 soro
-
 sorteio
 sorvete
 sossego
@@ -1648,7 +1601,6 @@ testado
 texugo
 tiara
 tigela
-
 tijolo
 tingido
 tintura
@@ -1725,9 +1677,6 @@ unha
 unidade
 uniforme
 universal
-
-
-
 urso
 urtiga
 urubu
@@ -1778,7 +1727,6 @@ vetor
 viaduto
 viagem
 viatura
-
 videira
 vidro
 vieira
@@ -1787,7 +1735,6 @@ viga
 vigente
 vigia
 vilania
-
 vinco
 vinda
 vinheta
