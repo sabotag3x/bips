@@ -9,8 +9,10 @@ abismo
 absinto
 absurdo
 abutre
+acabado
 acaso
 aceitar
+acelerar
 acerola
 acetona
 achar
@@ -34,6 +36,7 @@ aflito
 afoito
 afrodita
 afta
+agitado
 agora
 agrado
 agreste
@@ -56,6 +59,8 @@ alicate
 almofada
 alpiste
 alterar
+altitude
+altura
 aluguel
 aluno
 alvo
@@ -72,6 +77,8 @@ anaconda
 analisar
 anarquia
 anchova
+andador
+andaime
 anel
 anexo
 angular
@@ -81,7 +88,9 @@ anjo
 anotado
 ansioso
 anta
+anterior
 antigo
+anunciar
 anzol
 apache
 apagador
@@ -105,6 +114,11 @@ argola
 arma
 arquivo
 arraial
+arro
+arroba
+arroio
+arrombar
+arrotar
 arruela
 arsenal
 artefato
@@ -130,6 +144,9 @@ atum
 auditor
 aura
 aurora
+autora
+autoria
+autuar
 auxilar
 avaliar
 avante
@@ -209,6 +226,8 @@ blefe
 bloco
 boato
 bobagem
+bocado
+bocal
 bocejo
 bochecha
 bodas
@@ -222,6 +241,8 @@ bolha
 boliche
 bolo
 bolso
+bombar
+bombeiro
 bonde
 boneco
 bonita
@@ -234,6 +255,7 @@ botina
 bovino
 boxe
 brado
+branco
 brasil
 braveza
 breu
@@ -242,6 +264,7 @@ brilho
 brincar
 brita
 broa
+bronzear
 broto
 bruma
 bruxo
@@ -251,6 +274,7 @@ bula
 bule
 buraco
 burrice
+busca
 busto
 buzina
 cabana
@@ -270,6 +294,7 @@ caipira
 caixa
 cajado
 caju
+caldeira
 calha
 calibrar
 calota
@@ -277,6 +302,9 @@ camada
 camelo
 camisa
 campanha
+canabis
+canalha
+canavial
 caneta
 canguru
 canhoto
@@ -310,6 +338,8 @@ cassino
 castanha
 castelo
 caule
+causar
+cautelar
 cavalo
 caverna
 caxumba
@@ -325,6 +355,8 @@ cera
 cercar
 cereja
 cerrado
+certeiro
+certeza
 cerveja
 cevada
 chacota
@@ -357,6 +389,9 @@ cinza
 ciranda
 cisco
 citar
+clarear
+clareira
+clareza
 clero
 clipe
 clique
@@ -366,6 +401,8 @@ coado
 coala
 cobaia
 cobertor
+cobre
+cobrir
 cocada
 coceira
 codinome
@@ -404,6 +441,7 @@ cordial
 corja
 corno
 coronha
+corporal
 correio
 cortejo
 coruja
@@ -430,6 +468,9 @@ cueca
 cuia
 cuidado
 culatra
+culpado
+culpar
+culposo
 cultura
 cunhado
 cupido
@@ -446,6 +487,7 @@ deboche
 decimal
 declive
 decote
+decretar
 dedal
 dedicado
 deduzir
@@ -473,6 +515,11 @@ deslize
 desmaio
 desova
 despesa
+destaque
+destrezo
+destro
+destruir
+desumando
 desvio
 detento
 detrito
@@ -494,6 +541,11 @@ dinastia
 dinheiro
 diocese
 direto
+discar
+discreto
+discursar
+discurso
+discutir
 disfarce
 disparo
 disquete
@@ -525,6 +577,7 @@ dreno
 drible
 drinque
 dublado
+duelar
 duende
 duplo
 duquesa
@@ -540,12 +593,14 @@ efeito
 efetivo
 eixo
 elaborar
+eleger
 eleitor
 elenco
 elevador
 elfo
 eliminar
 elitismo
+elogiar
 embaixo
 embargo
 embolado
@@ -703,6 +758,7 @@ feto
 feudal
 fiapo
 ficar
+ficheiro
 figa
 figurado
 fileira
@@ -760,6 +816,7 @@ fuba
 fugitivo
 fulano
 fuligem
+fumante
 fundo
 fungo
 funil
@@ -786,6 +843,7 @@ garimpo
 garoto
 garoupa
 garrafa
+gasoduto
 gasto
 gata
 gaveta
@@ -801,6 +859,8 @@ gengiva
 genial
 genoma
 genro
+gentalha
+gentil
 gerador
 gerar
 gergelim
@@ -1012,6 +1072,7 @@ lavoura
 lavrado
 laxante
 lazer
+lealdade
 lebre
 legado
 legista
@@ -1027,6 +1088,7 @@ leque
 lerdo
 lesado
 lesma
+letreiro
 levado
 leveza
 liberal
@@ -1240,6 +1302,8 @@ nominal
 nordeste
 nosso
 noturno
+novelo
+novena
 novilho
 novo
 nuance
@@ -1323,6 +1387,8 @@ palmada
 pamonha
 pampa
 pancada
+pandeiro
+pandemia
 panela
 panfleto
 pantanal
@@ -1359,6 +1425,7 @@ peludo
 penca
 peneira
 penhor
+pensador
 pente
 penugem
 pequeno
@@ -1374,6 +1441,7 @@ pesquisa
 pessoal
 peteca
 piada
+piano
 picado
 pilastra
 pileque
@@ -1628,6 +1696,7 @@ senador
 senhor
 sentar
 sentido
+separado
 septo
 sequer
 sereia
@@ -1662,6 +1731,7 @@ solda
 soletrar
 solteiro
 soma
+sombrio
 sonata
 sondar
 sonegar
@@ -1670,6 +1740,7 @@ sono
 soprano
 soquete
 soro
+sorrir
 sorteio
 sorvete
 sossego
