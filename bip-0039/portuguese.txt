@@ -100,6 +100,7 @@ arapuca
 arara
 arca
 areia
+argila
 argola
 arma
 arquivo
@@ -272,6 +273,7 @@ caipira
 caixa
 cajado
 caju
+caldo
 calha
 calibrar
 calota
@@ -350,6 +352,7 @@ chuva
 cicatriz
 ciclone
 cidade
+cidreira
 ciente
 cilada
 cimento
@@ -530,6 +533,7 @@ drible
 drinque
 dublado
 duende
+duna
 duplo
 duquesa
 durante
@@ -728,6 +732,7 @@ firmeza
 fissura
 fita
 fivela
+fixo
 flamingo
 flanela
 flerte
@@ -863,6 +868,7 @@ granada
 grato
 graveto
 graxa
+grego
 greve
 grilo
 gritaria
@@ -1005,6 +1011,7 @@ joio
 jornal
 jovem
 juba
+judeu
 judoca
 juiz
 jujuba
@@ -1099,6 +1106,7 @@ longe
 lontra
 lorde
 lorota
+losango
 lotado
 loteria
 loucura
@@ -1294,6 +1302,7 @@ nobreza
 noite
 noivo
 nomear
+nominal
 nordeste
 norte
 nosso
@@ -1369,6 +1378,7 @@ outubro
 ouvido
 oval
 ovelha
+oxidar
 oxigenar
 pacato
 paciente
@@ -1480,6 +1490,7 @@ poema
 poleiro
 polia
 polpa
+poluente
 pomar
 pombo
 poncho
@@ -1507,6 +1518,7 @@ preto
 prezar
 primata
 princesa
+prisma
 privado
 processo
 produto
@@ -1542,6 +1554,7 @@ quente
 querubim
 quesito
 quiabo
+quilha
 quimono
 quina
 quiosque
@@ -1637,6 +1650,7 @@ roleta
 rolha
 romance
 rombo
+romeno
 roseira
 rosto
 rota
@@ -2009,6 +2023,7 @@ vogal
 volante
 voleio
 voltar
+volume
 vontade
 votante
 vulto
