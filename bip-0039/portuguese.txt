@@ -295,6 +295,7 @@ capuz
 caracol
 carbono
 careca
+carga
 carinho
 carneiro
 caro
@@ -440,6 +441,7 @@ cutelo
 damasco
 danoso
 data
+debater
 deboche
 decimal
 declive
@@ -1002,6 +1004,7 @@ laser
 lastro
 lataria
 latente
+latido
 latrina
 laudo
 lavanda
@@ -1126,6 +1129,7 @@ medonho
 medusa
 meia
 meigo
+melado
 melancia
 meleca
 melhor
@@ -1216,6 +1220,7 @@ natalino
 nato
 natureza
 navalha
+navegar
 navio
 neblina
 nebuloso
