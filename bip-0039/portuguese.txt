@@ -856,6 +856,7 @@ garimpo
 garoto
 garoupa
 garrafa
+garupa
 gasoduto
 gasto
 gata
@@ -888,10 +889,12 @@ girino
 glacial
 glicose
 global
+glorioso
 goela
 goiaba
 goleiro
 golfe
+golpear
 gordura
 gorjeta
 gorro
@@ -908,10 +911,12 @@ grato
 graveto
 graxa
 grego
+grelha
 greve
 grilo
 gritaria
 grosso
+grotesco
 grudado
 gruta
 guache
