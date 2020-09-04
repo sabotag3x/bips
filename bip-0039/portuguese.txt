@@ -1372,6 +1372,8 @@ ofuscado
 ogiva
 olaria
 oleoso
+olhar
+olheiro
 olho
 olimpo
 oliveira
@@ -1385,9 +1387,11 @@ operador
 oponente
 oportuno
 oposto
+orar
 ordem
 orelha
 orfanato
+orgasmo
 oriental
 origem
 oriundo
