@@ -33,8 +33,6 @@ aferir
 afetivo
 aflito
 afoito
-afrodita
-afta
 agitado
 agora
 agrado
@@ -191,7 +189,6 @@ batido
 batom
 batucar
 baunilha
-bazar
 beato
 beco
 beijo
@@ -261,17 +258,14 @@ branco
 brasil
 braveza
 breu
-breve
 briga
 brilho
 brincar
-brisa
 brita
 broa
 bronzear
 broto
 bruma
-brutal
 bruxo
 bucha
 budismo
@@ -410,7 +404,6 @@ circuito
 cirene
 cirurgia
 cisco
-cisne
 citar
 clareza
 clero
@@ -499,7 +492,6 @@ cunhado
 cupido
 cupom
 curativo
-curioso
 curral
 custo
 cutelo
@@ -1768,7 +1760,6 @@ serra
 servo
 setor
 sexteto
-sexual
 sigilo
 silhueta
 silicone
@@ -2048,7 +2039,6 @@ vomitar
 vontade
 votante
 vulto
-vuvuzela
 xadrez
 xarope
 xerife
