@@ -1845,9 +1845,11 @@ tabuada
 tacar
 tacho
 tagarela
+tainha
 taipa
 tala
 talher
+talo
 talvez
 tamanco
 tamanho
@@ -1861,12 +1863,15 @@ tarefa
 tarja
 tarraxa
 tarugo
+taurino
 taxista
+tchau
 teatral
 tecer
 tecido
 teclado
 teia
+teimar
 telefone
 telhado
 temer
@@ -1885,6 +1890,7 @@ testado
 texugo
 tiara
 tigela
+tigresa
 tijolo
 timidez
 tingido
@@ -1918,6 +1924,7 @@ touro
 toxina
 trabalho
 tradutor
+trafegar
 trajeto
 tralha
 trama
@@ -1928,12 +1935,14 @@ trator
 travar
 trazer
 treco
+treinar
 trem
 trevo
 triagem
 tribo
 triciclo
 tridente
+trigal
 trilho
 trilogia
 trincar
@@ -1941,6 +1950,7 @@ triplo
 triunfal
 troco
 trombeta
+tropeiro
 trova
 trunfo
 truque
