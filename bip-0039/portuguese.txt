@@ -264,7 +264,6 @@ bruxo
 bucha
 budismo
 bueiro
-bula
 bule
 buraco
 burrice
@@ -399,7 +398,6 @@ citar
 clareza
 clero
 clipe
-clique
 clone
 clube
 coado
@@ -570,7 +568,6 @@ dosagem
 dotado
 dourado
 doutor
-dreno
 drible
 drinque
 dublado
@@ -1039,7 +1036,6 @@ lagoa
 lajota
 lama
 lambari
-lamento
 lampejo
 lanche
 lapela
@@ -1086,6 +1082,7 @@ leveza
 liberal
 libido
 libra
+licitar
 lidar
 ligado
 ligeiro
@@ -1146,7 +1143,6 @@ mais
 malabar
 maldito
 malhado
-maluco
 malvado
 mamata
 mamilo
@@ -1260,6 +1256,7 @@ mostarda
 motel
 motim
 moto
+motriz
 muamba
 muda
 mugido
@@ -1299,6 +1296,7 @@ neta
 neural
 nevasca
 nevoeiro
+nexo
 nicotina
 ninar
 ninho
@@ -1310,6 +1308,7 @@ nomear
 nominal
 nordeste
 nosso
+notar
 noturno
 novelo
 novilho
@@ -1335,6 +1334,7 @@ oculista
 ocupado
 ofegante
 ofensivo
+oferta
 oficina
 ofuscado
 ogiva
@@ -1343,6 +1343,7 @@ oleoso
 olhar
 olheiro
 olho
+oligarca
 olimpo
 oliveira
 ombro
@@ -1365,6 +1366,7 @@ origem
 oriundo
 orla
 ornado
+ortodoxo
 orvalho
 ossada
 osso
@@ -1447,6 +1449,7 @@ penugem
 peralta
 perfeito
 perito
+permitir
 perna
 peroba
 perto
@@ -1468,7 +1471,6 @@ pinguim
 pinheiro
 pintar
 piolho
-pior
 pipeta
 pipoca
 piquete
@@ -1516,6 +1518,7 @@ preciso
 prefeito
 pregar
 preparar
+prensar
 pressa
 preto
 prezar
@@ -1536,7 +1539,6 @@ pseudo
 publicar
 pudim
 pular
-pulo
 pulseira
 punhado
 punir
@@ -1868,7 +1870,6 @@ tomada
 tombo
 tomilho
 tonel
-tontura
 topete
 topo
 tora
@@ -2002,7 +2003,6 @@ vigia
 vigorar
 vinco
 vinda
-vingar
 vinheta
 violeta
 virar
