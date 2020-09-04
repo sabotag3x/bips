@@ -1316,6 +1316,7 @@ nanquim
 narina
 nascer
 natalino
+nativa
 nato
 natureza
 navalha
@@ -1328,7 +1329,9 @@ nervoso
 neta
 neural
 nevasca
+nevoeiro
 nicotina
+ninar
 ninho
 nivelar
 nobreza
