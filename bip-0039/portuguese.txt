@@ -270,6 +270,7 @@ buraco
 burrice
 busca
 busto
+butano
 buzina
 cabana
 cabelo
@@ -444,6 +445,7 @@ copeiro
 copo
 coquetel
 coragem
+corcova
 cordial
 corja
 corno
@@ -453,6 +455,7 @@ correio
 cortejo
 coruja
 corvo
+cosseno
 cosmo
 costela
 couro
@@ -573,6 +576,7 @@ drinque
 dublado
 duelar
 duende
+dueto
 duplo
 duquesa
 durante
@@ -1081,11 +1085,13 @@ levado
 leveza
 liberal
 libido
+libra
 lidar
 ligado
 ligeiro
 limitar
 limpo
+linda
 linear
 linhagem
 liquidez
@@ -1276,6 +1282,7 @@ naja
 namoro
 nanquim
 narina
+narrado
 nascer
 natalino
 nativa
@@ -1419,6 +1426,7 @@ pavio
 pebolim
 pecador
 pedalar
+pedestre
 pedinte
 pedra
 pegada
@@ -1461,6 +1469,7 @@ pinheiro
 pintar
 piolho
 pior
+pipeta
 pipoca
 piquete
 pires
@@ -1769,6 +1778,7 @@ sotaque
 sovado
 sozinho
 suar
+subida
 submerso
 subsolo
 sucata
@@ -1806,6 +1816,7 @@ talvez
 tamanho
 tamborim
 tampa
+tanga
 tanto
 tapar
 tapioca
@@ -1980,6 +1991,7 @@ viaduto
 viagem
 viajar
 viatura
+vibrador
 videira
 vidro
 vieira
