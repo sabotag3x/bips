@@ -144,7 +144,6 @@ avesso
 aviador
 avulso
 axila
-azedo
 azeite
 azulejo
 babado
@@ -285,7 +284,6 @@ cadastro
 cadeado
 cadeia
 cadeira
-cafona
 caibro
 caipira
 caixa
@@ -453,8 +451,8 @@ correio
 cortejo
 coruja
 corvo
-cosseno
 cosmo
+cosseno
 costela
 couro
 couve
@@ -705,7 +703,6 @@ fagulha
 faixa
 falar
 falecido
-falha
 falta
 familiar
 fantoche
@@ -949,7 +946,6 @@ indeciso
 indireto
 indolor
 indutor
-ineficaz
 inerente
 infantil
 inferno
@@ -1317,7 +1313,6 @@ nuance
 nublado
 nudez
 numeral
-nunca
 nupcial
 nutrir
 nuvem
@@ -1517,8 +1512,8 @@ prece
 preciso
 prefeito
 pregar
-preparar
 prensar
+preparar
 pressa
 preto
 prezar
@@ -1597,12 +1592,16 @@ rebelde
 recado
 recente
 recibo
+recordar
+recrutar
 recuo
 redator
 rede
 redonda
 redutor
+refil
 reflexo
+refugiar
 regalia
 regente
 regime
@@ -1618,6 +1617,7 @@ repente
 repleto
 repouso
 resenha
+resinar
 resolver
 resposta
 ressaca
