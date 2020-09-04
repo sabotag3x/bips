@@ -191,7 +191,6 @@ batido
 batom
 batucar
 baunilha
-bazar
 beato
 beco
 beijo
@@ -261,17 +260,14 @@ branco
 brasil
 braveza
 breu
-breve
 briga
 brilho
 brincar
-brisa
 brita
 broa
 bronzear
 broto
 bruma
-brutal
 bruxo
 bucha
 budismo
@@ -410,7 +406,6 @@ circuito
 cirene
 cirurgia
 cisco
-cisne
 citar
 clareza
 clero
@@ -499,7 +494,6 @@ cunhado
 cupido
 cupom
 curativo
-curioso
 curral
 custo
 cutelo
