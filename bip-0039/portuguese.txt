@@ -1413,6 +1413,7 @@ pacato
 paciente
 pacote
 padaria
+padeiro
 padrinho
 pagar
 paginar
@@ -1431,6 +1432,7 @@ pancada
 pandeiro
 panela
 panfleto
+panqueca
 pantanal
 papagaio
 papiro
@@ -1449,8 +1451,10 @@ pastel
 patamar
 patente
 patinete
+pato
 patrono
 paulada
+pausar
 pavio
 pebolim
 pecador
@@ -1460,9 +1464,13 @@ pedra
 pegada
 peito
 peixe
+pelada
 pele
+pelicano
 peludo
+penacho
 penca
+pendurar
 peneira
 penhor
 pensador
@@ -1480,14 +1488,17 @@ pescado
 pesquisa
 pessoal
 peteca
+petiscar
 piada
 picado
+piedade
 pilastra
 pileque
 pilhado
 pimenta
 pincel
 pinguim
+pinheiro
 pintar
 piolho
 pior
@@ -1505,9 +1516,12 @@ platina
 plebeu
 plexo
 plugue
+pluvial
 pneu
+pochete
 poda
 poeira
+poetisa
 poleiro
 polia
 polpa
@@ -1517,6 +1531,7 @@ poncho
 ponta
 porco
 porta
+possuir
 postal
 potente
 pouco
@@ -1530,6 +1545,7 @@ praxe
 prazo
 prece
 preciso
+prefeito
 pregar
 preparar
 pressa
