@@ -1172,6 +1172,7 @@ malhado
 maluco
 malvado
 mamata
+mamilo
 mamona
 mamute
 manada
@@ -1179,9 +1180,12 @@ mancha
 mandato
 manequim
 mangue
+manhoso
 manivela
 manopla
+mansa
 mantra
+manusear
 mapeado
 marasmo
 marcador
@@ -1202,6 +1206,7 @@ matagal
 materno
 matinal
 mato
+matutar
 maxilar
 medalha
 medida
@@ -1213,6 +1218,7 @@ melado
 melancia
 meleca
 melhor
+meliante
 membro
 memorial
 menino
@@ -1220,6 +1226,7 @@ menos
 mensagem
 mental
 mercador
+merecer
 mergulho
 mesa
 mesclar
@@ -1228,6 +1235,7 @@ mestre
 metade
 meteoro
 metido
+mexer
 miado
 micro
 migalha
@@ -1243,7 +1251,9 @@ ministro
 minoria
 miolo
 mirante
+mirtilo
 miudeza
+mocidade
 modal
 modem
 modismo
@@ -1266,14 +1276,18 @@ moradia
 morango
 morcego
 mordomo
+morena
 morfar
 morno
 morse
 mosaico
+mosquete
 mostarda
 motel
+motim
 moto
 muamba
+muda
 mugido
 mugir
 muito
