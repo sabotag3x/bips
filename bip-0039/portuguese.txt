@@ -350,7 +350,6 @@ catador
 catapora
 cativar
 catraca
-cauda
 caule
 causar
 cautelar
@@ -409,7 +408,6 @@ cinza
 ciranda
 circuito
 cirene
-cirrose
 cirurgia
 cisco
 cisne
@@ -501,7 +499,7 @@ cunhado
 cupido
 cupom
 curativo
-curinga
+curioso
 curral
 custo
 cutelo
