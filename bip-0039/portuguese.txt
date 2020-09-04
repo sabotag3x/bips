@@ -33,8 +33,6 @@ aferir
 afetivo
 aflito
 afoito
-afrodita
-afta
 agitado
 agora
 agrado
@@ -1762,7 +1760,6 @@ serra
 servo
 setor
 sexteto
-sexual
 sigilo
 silhueta
 silicone
@@ -2042,7 +2039,6 @@ vomitar
 vontade
 votante
 vulto
-vuvuzela
 xadrez
 xarope
 xerife
