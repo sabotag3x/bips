@@ -22,7 +22,6 @@ adaptar
 adega
 adesivo
 adiante
-adiposo
 adjetivo
 adorar
 adubo
@@ -35,7 +34,7 @@ aflito
 afoito
 agitado
 agora
-agrado
+agradar
 agreste
 agrupar
 agulha
@@ -170,7 +169,6 @@ bala
 baleia
 baliza
 balsa
-bambu
 bancario
 bandeira
 banho
@@ -184,7 +182,6 @@ baseado
 bastante
 batata
 bater
-bateria
 batido
 batom
 batucar
@@ -245,7 +242,6 @@ bombeiro
 bonde
 boneco
 bonita
-bonsai
 borda
 boreal
 borracha
@@ -253,7 +249,6 @@ bossa
 botina
 bovino
 boxe
-brado
 branco
 brasil
 braveza
@@ -265,7 +260,6 @@ brita
 broa
 bronzear
 broto
-bruma
 bruxo
 bucha
 budismo
@@ -302,7 +296,6 @@ caldeira
 calha
 calibrar
 calota
-caluniar
 camada
 camelo
 camisa
@@ -318,7 +311,6 @@ canoa
 cansado
 cantar
 canudo
-caolho
 capacho
 capim
 capivara
@@ -355,7 +347,6 @@ cedilha
 cegonha
 cegueira
 ceia
-celeste
 celular
 cenoura
 censura
@@ -396,7 +387,6 @@ ciente
 cigana
 cilada
 cimento
-cinema
 cinto
 cinza
 ciranda
@@ -496,7 +486,6 @@ curral
 custo
 cutelo
 damasco
-danoso
 data
 debater
 deboche
@@ -532,7 +521,6 @@ desmaio
 desova
 despesa
 destaque
-desvio
 detento
 detrito
 devasso
@@ -548,7 +536,6 @@ difuso
 digitar
 dilatado
 diminuir
-dinamite
 dinastia
 dinheiro
 diocese
@@ -590,10 +577,8 @@ duplo
 duquesa
 durante
 duvidoso
-eclipse
 ecoante
 ecologia
-ecomuseu
 edital
 educado
 efeito
@@ -626,12 +611,10 @@ encaixe
 encenado
 enchente
 encontro
-encosto
 encrenca
 enfeite
 enfim
 engajado
-engano
 engenho
 engomado
 enguia
@@ -656,7 +639,6 @@ enxofre
 enxuto
 epiderme
 equador
-equipe
 ereto
 erguido
 errado
@@ -684,7 +666,6 @@ esporte
 espreita
 esquadro
 esquerda
-esqui
 estaca
 esterco
 estiloso
@@ -715,18 +696,15 @@ extinto
 extrato
 fabricar
 fabuloso
-facada
 faceta
 facial
 fada
 fadiga
 fagulha
 faixa
-fajuto
 falar
 falecido
 falha
-falido
 falta
 familiar
 fantoche
@@ -738,7 +716,6 @@ farpa
 fartura
 fatia
 fator
-fava
 favela
 faxina
 fazenda
@@ -818,7 +795,6 @@ friso
 fritura
 fronte
 frota
-fuba
 fugitivo
 fulano
 fuligem
@@ -836,7 +812,6 @@ gagueira
 gaiato
 gaiola
 gaivota
-galeria
 galho
 galinha
 galocha
@@ -866,7 +841,6 @@ genial
 genoma
 genro
 gerador
-gerar
 gergelim
 geriatra
 germinar
@@ -915,12 +889,10 @@ guache
 guarda
 guaxinim
 gueto
-guia
 guincho
 gula
 guru
 habitar
-harpia
 haste
 hectare
 heresia
@@ -963,7 +935,6 @@ imersivo
 iminente
 imortal
 impacto
-imperial
 implante
 imprensa
 impune
@@ -1013,7 +984,6 @@ invocar
 ioga
 iogurte
 irado
-ironia
 irreal
 irritado
 isca
@@ -1034,14 +1004,12 @@ jarro
 jasmin
 jato
 javali
-jazida
 jeca
 jegue
 jeito
 jejum
 joaninha
 joelho
-jogada
 jogador
 jogo
 joio
@@ -1088,7 +1056,6 @@ latrina
 laudo
 lavanda
 lavoura
-lavrado
 laxante
 lazer
 lealdade
@@ -1096,7 +1063,6 @@ lebre
 legado
 legendar
 legista
-legume
 leigo
 leitura
 lembrete
@@ -1105,7 +1071,6 @@ lenda
 lenhador
 lente
 leoa
-leonino
 leque
 lerdo
 lesado
@@ -1161,7 +1126,6 @@ macaco
 macete
 machado
 macio
-macro
 macumba
 madame
 madeira
@@ -1251,7 +1215,6 @@ milagre
 milenar
 milhar
 mimado
-mineral
 mingau
 minhoca
 ministro
@@ -1259,7 +1222,6 @@ minoria
 miolo
 mirante
 mirtilo
-miudeza
 mocidade
 modal
 modem
@@ -1279,7 +1241,6 @@ monge
 monstro
 monte
 moqueca
-moradia
 morango
 morcego
 mordomo
@@ -1296,7 +1257,6 @@ moto
 muamba
 muda
 mugido
-mugir
 muito
 mulata
 mulher
@@ -1362,7 +1322,6 @@ obrigado
 obscuro
 obstetra
 obter
-oceano
 ocidente
 ocioso
 oculista
@@ -1421,7 +1380,6 @@ pagar
 paginar
 pagode
 painel
-paiol
 paisano
 palavra
 palestra
@@ -1478,7 +1436,6 @@ penhor
 pensador
 pente
 penugem
-pequeno
 peralta
 perfeito
 perito
@@ -1590,7 +1547,6 @@ quente
 querubim
 quesito
 quiabo
-quietude
 quilha
 quimono
 quina
@@ -1604,10 +1560,8 @@ raiar
 rainha
 raio
 raiva
-raiz
 rajada
 ralado
-rali
 ralo
 rancor
 ranger
@@ -1697,9 +1651,7 @@ rotular
 roubar
 rouco
 roupa
-roxa
 roxo
-rubi
 rubro
 rugido
 ruivo
@@ -1851,7 +1803,6 @@ tala
 talher
 talo
 talvez
-tamanco
 tamanho
 tamborim
 tampa
@@ -1881,7 +1832,6 @@ tenda
 tenente
 tensor
 tentar
-teoria
 terno
 terreno
 tese
@@ -1981,7 +1931,6 @@ usado
 usina
 usufruir
 usura
-utero
 vacina
 vadio
 vaga
@@ -2006,7 +1955,6 @@ vazar
 vazio
 veado
 vedar
-vegetal
 veia
 velar
 veleiro
@@ -2021,11 +1969,9 @@ verbete
 verdade
 vereador
 vergonha
-verme
 verniz
 versar
 vertical
-vesgo
 vespa
 vestido
 vetor
@@ -2034,7 +1980,6 @@ viaduto
 viagem
 viajar
 viatura
-viciado
 videira
 vidro
 vieira
@@ -2043,7 +1988,6 @@ viga
 vigente
 vigia
 vigorar
-vilania
 vinco
 vinda
 vingar
@@ -2052,13 +1996,11 @@ violeta
 virar
 virgem
 virilha
-virose
 virtude
 visconde
 viseira
 visitar
 visto
-vitimar
 vitrola
 viveiro
 vividez
@@ -2070,7 +2012,6 @@ vogal
 volante
 voleio
 voltar
-vomitar
 vontade
 votante
 vulgo
@@ -2092,5 +2033,4 @@ zoar
 zoeira
 zombar
 zonear
-zonzar
 zumbido
