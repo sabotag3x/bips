@@ -2091,5 +2091,6 @@ zigoto
 zoar
 zoeira
 zombar
+zonear
 zonzar
 zumbido
