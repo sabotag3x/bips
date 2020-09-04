@@ -1975,6 +1975,7 @@ valente
 validade
 valores
 valsa
+vamos
 vantagem
 vaqueiro
 varanda
@@ -2033,7 +2034,9 @@ violeta
 virar
 virgem
 virilha
+virose
 virtude
+visconde
 viseira
 visitar
 visto
@@ -2043,6 +2046,7 @@ viveiro
 vividez
 vizinho
 voador
+voar
 vodca
 vogal
 volante
@@ -2051,7 +2055,9 @@ voltar
 vomitar
 vontade
 votante
+vulgo
 vulto
+vuvuzela
 xadrez
 xarope
 xerife
