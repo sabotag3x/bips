@@ -102,7 +102,7 @@ Words chosen using the following rules:
 
 ### Portuguese
 
-Credits: @brenorb
+Credits: @alegotardo @bitmover-studio @brenorb @kuthullu @ninjastic @sabotag3x
 
 1. Words can be uniquely determined typing the first 4 characters.
 2. No accents or special characters.
