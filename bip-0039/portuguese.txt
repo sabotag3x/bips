@@ -974,6 +974,8 @@ impacto
 imperial
 implante
 imprensa
+impune
+imune
 inalador
 inativo
 incenso
@@ -1001,11 +1003,16 @@ inocente
 inovador
 inox
 inquieto
+inscrito
 inseto
+insistir
+inspetor
 instalar
 insulto
 integral
 interno
+intimar
+intocado
 intruso
 invasor
 inverno
