@@ -511,7 +511,6 @@ desmaio
 desova
 despesa
 destaque
-detento
 detrito
 devasso
 deveras
@@ -1053,6 +1052,7 @@ legado
 legendar
 legista
 leigo
+leiloar
 leitura
 lembrete
 leme
