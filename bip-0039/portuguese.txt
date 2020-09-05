@@ -545,7 +545,6 @@ doador
 dobrado
 doca
 doceiro
-doloso
 domador
 dominado
 dona
@@ -1076,6 +1075,7 @@ lidar
 ligado
 ligeiro
 limitar
+limoeiro
 limpo
 linda
 linear
