@@ -365,7 +365,6 @@ chicote
 chifre
 chinelo
 chopeira
-chuca
 chuchu
 chumbo
 chupeta
@@ -1017,6 +1016,7 @@ junta
 jurado
 jurista
 juro
+labareda
 laboral
 lacre
 ladeira
