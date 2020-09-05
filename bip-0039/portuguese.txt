@@ -263,7 +263,6 @@ budismo
 bueiro
 bule
 buraco
-burrice
 busca
 busto
 butano
@@ -279,8 +278,6 @@ cachorro
 cacique
 cacto
 cadastro
-cadeado
-cadeia
 cadeira
 caibro
 caipira
@@ -347,7 +344,6 @@ celular
 cenoura
 censura
 centeio
-centena
 cera
 cercar
 cereja
@@ -1850,6 +1846,7 @@ terreno
 tese
 tesoura
 testado
+teto
 texugo
 tiara
 tigela
@@ -1862,6 +1859,7 @@ tiragem
 titular
 toalha
 tocha
+toca
 toco
 tofu
 tolerar
@@ -1885,6 +1883,7 @@ toupeira
 touro
 toxina
 trabalho
+tracejar
 tradutor
 trafegar
 trajeto
@@ -1917,6 +1916,7 @@ trova
 trunfo
 truque
 truta
+tubular
 tucano
 tudo
 tulipa
