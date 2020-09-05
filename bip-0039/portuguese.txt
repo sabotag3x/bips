@@ -581,7 +581,6 @@ elfo
 eliminar
 elitismo
 elogiar
-embaixo
 embargo
 embolado
 embrulho
@@ -1079,6 +1078,7 @@ limoeiro
 limpo
 linda
 linear
+linguado
 linhagem
 liquidez
 lisa
