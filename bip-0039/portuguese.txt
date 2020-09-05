@@ -389,7 +389,6 @@ cinto
 cinza
 ciranda
 circuito
-cirene
 cirurgia
 cisco
 citar
@@ -998,7 +997,6 @@ jaqueta
 jararaca
 jardim
 jarro
-jasmin
 jato
 javali
 jeca
@@ -1836,6 +1834,7 @@ tecido
 teclado
 teia
 teimar
+telar
 telefone
 telhado
 temer
@@ -1845,6 +1844,7 @@ tenda
 tenente
 tensor
 tentar
+termal
 terno
 terreno
 tese
