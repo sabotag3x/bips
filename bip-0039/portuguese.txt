@@ -416,7 +416,6 @@ colono
 coluna
 comando
 combinar
-comboio
 comover
 compacto
 complexo
@@ -1022,6 +1021,7 @@ lacre
 ladeira
 lagarta
 lagoa
+laje
 lajota
 lama
 lambari
