@@ -587,7 +587,6 @@ embrulho
 embutido
 emenda
 emissor
-empada
 empatia
 empenho
 empinado
@@ -1083,6 +1082,7 @@ linhagem
 liquidez
 lisa
 listagem
+literal
 litoral
 lividez
 livro
