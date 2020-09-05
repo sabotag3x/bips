@@ -604,7 +604,6 @@ engajado
 engenho
 engomado
 enguia
-enjoado
 enquanto
 enquete
 enrolado
@@ -650,7 +649,6 @@ espelho
 espiga
 esporte
 espreita
-esquadro
 esquerda
 estaca
 esterco
@@ -689,7 +687,6 @@ fadiga
 fagulha
 faixa
 falar
-falecido
 falta
 familiar
 fantoche
@@ -706,8 +703,6 @@ faxina
 fazenda
 febre
 fechado
-fedido
-fedor
 feio
 feira
 feitio
@@ -751,14 +746,12 @@ fogo
 foguete
 foice
 folgado
-folha
 folheto
 folia
 fome
 fonte
 forca
 forense
-formado
 formiga
 forno
 forrar
@@ -780,7 +773,6 @@ friso
 fritura
 fronte
 frota
-fugitivo
 fulano
 fuligem
 fundo
@@ -805,7 +797,6 @@ ganhar
 garfo
 gargalo
 garimpo
-garoto
 garoupa
 garrafa
 garupa
@@ -957,7 +948,6 @@ inspetor
 instalar
 insulto
 integral
-interno
 intimar
 intocado
 intruso
@@ -1091,7 +1081,6 @@ lixeiro
 locador
 locutor
 logo
-loiro
 loja
 lombo
 lona
@@ -1129,7 +1118,6 @@ magoado
 magreza
 maior
 mais
-malabar
 maldito
 malhado
 malvado
@@ -1176,7 +1164,6 @@ medonho
 medusa
 meia
 meigo
-melado
 melancia
 meleca
 melhor
@@ -1214,7 +1201,6 @@ miolo
 mirante
 mirtilo
 mocidade
-modal
 modem
 modismo
 moedor
@@ -1258,7 +1244,6 @@ munido
 muralha
 murcho
 muscular
-museu
 museu
 musical
 nabo
@@ -1374,7 +1359,6 @@ padaria
 padeiro
 padrinho
 pagar
-paginar
 pagode
 painel
 paisano
@@ -1468,12 +1452,9 @@ piscar
 pistola
 pitanga
 placar
-plano
 planta
 platina
 plebeu
-plexo
-plugue
 pluvial
 pneu
 pochete
@@ -1553,7 +1534,6 @@ quiosque
 rabada
 rabisco
 rachar
-racismo
 radial
 raiar
 rainha
@@ -1645,7 +1625,6 @@ roleta
 rolha
 romano
 rombo
-romeno
 roseira
 rosto
 rota
@@ -1721,7 +1700,6 @@ semente
 senador
 senhor
 sentar
-sentido
 separado
 septo
 sequer
@@ -1799,7 +1777,6 @@ sutileza
 tabela
 tablado
 tabuada
-tacar
 tacho
 tagarela
 tainha
@@ -1859,7 +1836,6 @@ tiragem
 titular
 toalha
 tocha
-toca
 toco
 tofu
 tolerar
@@ -1904,7 +1880,6 @@ tribo
 triciclo
 tridente
 trigal
-trilho
 trilogia
 trincar
 triplo
@@ -1931,8 +1906,6 @@ uivar
 ultra
 umbanda
 umbigo
-umedecer
-umidade
 unha
 unidade
 uniforme
@@ -1968,7 +1941,6 @@ vazio
 veado
 vedar
 veia
-velar
 veleiro
 velhice
 veludo
@@ -2015,7 +1987,6 @@ visitar
 visto
 vitrola
 viveiro
-vividez
 vizinho
 voador
 voar
