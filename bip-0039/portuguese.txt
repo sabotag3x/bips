@@ -305,7 +305,6 @@ cansado
 cantar
 canudo
 capacho
-capim
 capivara
 capotar
 capuz
@@ -323,10 +322,8 @@ casaco
 casca
 casebre
 cassino
-castanha
 castelo
-catador
-catapora
+catavento
 cativar
 catraca
 caule
@@ -417,7 +414,6 @@ coluna
 comando
 combinar
 comover
-compacto
 complexo
 comum
 concha
@@ -502,7 +498,6 @@ depressa
 deriva
 desafio
 descanso
-descida
 desenho
 desfiado
 desigual
@@ -604,7 +599,6 @@ engajado
 engenho
 engomado
 enguia
-enquanto
 enquete
 enrolado
 ensaio
@@ -617,7 +611,6 @@ entrada
 entulho
 enviado
 envolver
-enxada
 enxame
 enxerto
 enxofre
@@ -637,14 +630,12 @@ escrita
 escuta
 esfirra
 esfregar
-esfriar
 esgoto
 esgrima
 esmalte
 esmola
 esnobe
 espanto
-especial
 espelho
 espiga
 esporte
@@ -1139,7 +1130,6 @@ manusear
 mapeado
 marasmo
 marcador
-marcial
 maresia
 marfim
 margem
@@ -1211,7 +1201,6 @@ moita
 mola
 moldura
 moleira
-molhar
 molho
 molusco
 monge
@@ -1378,7 +1367,6 @@ papagaio
 papiro
 papo
 paquera
-parado
 parafina
 parcial
 pardal
@@ -1481,7 +1469,6 @@ prancha
 prato
 praxe
 prazo
-prece
 preciso
 prefeito
 pregar
