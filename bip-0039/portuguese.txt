@@ -228,7 +228,6 @@ bochecha
 bodas
 bode
 boemia
-boiada
 bolada
 boldo
 boletim
@@ -996,6 +995,7 @@ jaqueta
 jararaca
 jardim
 jarro
+jasmim
 jato
 javali
 jeca
