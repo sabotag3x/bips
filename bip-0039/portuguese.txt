@@ -1289,7 +1289,6 @@ lebre
 legado
 legendar
 legista
-leigo
 leiloar
 leitura
 lembrete
@@ -1307,7 +1306,6 @@ leveza
 levitar
 liberal
 libido
-libra
 ligar
 ligeiro
 limitar
@@ -1673,7 +1671,6 @@ penhasco
 pensador
 pente
 penugem
-pequeno
 peralta
 perceber
 perda
@@ -1705,7 +1702,6 @@ pinote
 pintar
 piolho
 piorar
-pipeta
 pipoca
 piquete
 piranha
@@ -1742,7 +1738,6 @@ pontaria
 porta
 possuir
 postal
-potente
 poupar
 pouso
 povoar
@@ -1773,7 +1768,6 @@ projeto
 prometer
 propagar
 prosa
-proteger
 provador
 pseudo
 psicose
@@ -2197,7 +2191,6 @@ virar
 virilha
 virtude
 visconde
-viseira
 visitar
 visto
 vitrola
