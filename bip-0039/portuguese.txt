@@ -2293,7 +2293,6 @@ renovado
 repleto
 repolho
 repouso
-reprar
 resenha
 reserva
 resinar
@@ -2348,7 +2347,6 @@ roupa
 roxo
 rubro
 rugido
-ruina
 ruivo
 rumo
 russo
@@ -2656,7 +2654,6 @@ ultra
 umbanda
 umbigo
 unha
-unicornio
 unidade
 uniforme
 urso
@@ -2675,7 +2672,6 @@ valente
 validade
 valido
 valores
-valvula
 vamos
 vantagem
 vantagem
@@ -2711,7 +2707,6 @@ vergonha
 verniz
 versar
 verso
-vertebra
 vertical
 vespa
 vestido
