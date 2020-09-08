@@ -8,7 +8,6 @@ abater
 abcesso
 abduzir
 abelha
-aberta
 abertura
 abismo
 abobada
@@ -23,7 +22,6 @@ absinto
 absoluto
 abster
 abstrair
-abstrato
 absurdo
 abusivo
 abutre
@@ -45,7 +43,6 @@ acima
 acionado
 aclamar
 aclive
-acolher
 acolhida
 acometer
 acoplar
@@ -203,10 +200,7 @@ apogeu
 apoio
 apontar
 aposta
-apreciar
 aprendiz
-apressar
-aprontar
 aprovar
 aquecer
 aquilo
@@ -481,9 +475,7 @@ carbono
 cardume
 careca
 caridade
-carimbar
 carinho
-carioca
 carneiro
 carpete
 carreira
@@ -514,7 +506,6 @@ celeiro
 celular
 cenoura
 censor
-censurar
 centeio
 cercar
 cerrado
