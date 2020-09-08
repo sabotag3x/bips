@@ -114,3 +114,4 @@ Credits: @alegotardo @bitmover-studio @brenorb @kuthullu @ninjastic @sabotag3x
 8. No words already used in other language mnemonic sets.
 9. The words which have not the same spelling in Brazil and in Portugal are excluded.
 10. No words that remind negative/sad/bad things.
+11. No very similar words with 1 letter of difference.
