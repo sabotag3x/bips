@@ -1861,6 +1861,7 @@ tacho
 tagarela
 talher
 talo
+talvez
 tamanho
 tamborim
 tampa
