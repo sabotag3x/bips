@@ -53,7 +53,6 @@ aditivo
 adjetivo
 adjunto
 admirar
-adoecer
 adorar
 adquirir
 adubo
@@ -125,7 +124,6 @@ amenizar
 amido
 amistoso
 amizade
-amnesia
 amolador
 amontoar
 amora
@@ -133,7 +131,6 @@ amostra
 amparar
 ampliar
 ampola
-amputar
 anaconda
 analisar
 anarquia
@@ -371,7 +368,6 @@ cachorro
 cacique
 cadastro
 cadeado
-caducar
 cafezal
 caiaque
 caipira
@@ -433,7 +429,6 @@ caverna
 cebola
 cedilha
 cegonha
-cegueira
 celebrar
 celular
 cenoura
@@ -462,7 +457,6 @@ chifre
 chinelo
 chocalho
 chopeira
-chorar
 chover
 chuchu
 chumbo
@@ -476,7 +470,6 @@ cidade
 cidreira
 ciente
 cigana
-cilada
 cimento
 cinto
 cinza
@@ -686,7 +679,6 @@ duvidoso
 eclodir
 ecoante
 ecologia
-edema
 edificar
 edital
 educado
@@ -882,7 +874,6 @@ foguete
 foice
 folgado
 folheto
-fome
 forjar
 formiga
 forno
@@ -907,7 +898,6 @@ fugir
 fulano
 fuligem
 fundar
-funeral
 fungo
 funil
 furador
@@ -1080,7 +1070,6 @@ inibido
 inicial
 inimigo
 injetor
-injusto
 inocente
 inodoro
 inovador
@@ -1095,7 +1084,6 @@ insulto
 integral
 intimar
 intocado
-intruso
 invasor
 inverno
 invicto
@@ -1235,7 +1223,6 @@ macumba
 madame
 madeira
 madrinha
-madurar
 maestria
 magnata
 magreza
@@ -1243,7 +1230,6 @@ maior
 mais
 malandro
 malha
-maligno
 maluco
 mamilo
 mamona
@@ -1400,7 +1386,6 @@ novilho
 novo
 nublado
 nudez
-nulidade
 numeral
 nupcial
 nutrir
@@ -1648,7 +1633,6 @@ raiva
 rajada
 ralado
 ramal
-rancor
 ranger
 ranhura
 rapadura
