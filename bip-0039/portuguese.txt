@@ -1289,6 +1289,7 @@ maxilar
 medalha
 medida
 medusa
+meigo
 melancia
 meleca
 melhor
@@ -2005,6 +2006,7 @@ viagem
 viajar
 viatura
 vibrador
+videira
 vidro
 viela
 viga
