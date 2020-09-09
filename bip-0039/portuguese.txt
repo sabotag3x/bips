@@ -1,4 +1,5 @@
 abacate
+abafar
 abaixo
 abajur
 abalar
@@ -10,6 +11,9 @@ abismo
 abotoar
 abranger
 abreviar
+abrigado
+abrigar
+abrigo
 abrupto
 absinto
 absoluto
@@ -27,6 +31,7 @@ acenar
 acerola
 acessar
 acetona
+achatar
 acidez
 acima
 acionado
@@ -34,12 +39,14 @@ acirrar
 aclamar
 aclive
 acolhida
+acomodar
 acoplar
 acordar
 acumular
 acusador
 adaptar
 adega
+adentro
 adepto
 adequar
 aderente
@@ -90,6 +97,7 @@ alcatra
 aldeia
 alecrim
 alegria
+alertar
 alface
 alfinete
 algema
@@ -171,6 +179,7 @@ arapuca
 arara
 arcada
 ardente
+ardilozo
 areia
 arejar
 arenito
@@ -585,6 +594,7 @@ data
 debater
 debitar
 deboche
+decalque
 decimal
 declive
 decote
@@ -723,6 +733,7 @@ enfim
 engajado
 engenho
 engomado
+engraxar
 enguia
 enlatar
 enquete
@@ -735,6 +746,7 @@ ensopado
 entanto
 enteado
 entidade
+entortar
 entrada
 entulho
 envergar
@@ -748,6 +760,7 @@ epiderme
 equipar
 ereto
 erguido
+errata
 erva
 ervilha
 esbanjar
@@ -797,9 +810,13 @@ exibir
 exigente
 exonerar
 expandir
+expelir
+expirar
 explanar
 exposto
 expresso
+expulsar
+expulso
 externo
 extinto
 extrato
@@ -1060,6 +1077,7 @@ indutor
 ineficaz
 inerente
 infantil
+infestar
 infinito
 inflar
 informal
@@ -1136,6 +1154,7 @@ labareda
 laboral
 lacre
 lactante
+ladrilho
 lagarta
 lagoa
 laje
@@ -1423,6 +1442,7 @@ omelete
 omisso
 omitir
 ondulado
+oneroso
 ontem
 opcional
 operador
@@ -1498,6 +1518,7 @@ pebolim
 peculiar
 pedalar
 pedestre
+pedir
 pedra
 pegada
 peixe
@@ -1970,6 +1991,7 @@ veludo
 vencedor
 venerar
 ventre
+verbo
 verdade
 vereador
 vergonha
