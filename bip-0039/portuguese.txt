@@ -1,5 +1,4 @@
 abacate
-abafar
 abaixo
 abajur
 abalar
@@ -11,7 +10,6 @@ abismo
 abotoar
 abranger
 abreviar
-abrigado
 abrigar
 abrigo
 abrupto
@@ -24,7 +22,6 @@ acalmar
 acampar
 acanhar
 acaso
-acatar
 aceitar
 acelerar
 acenar
@@ -602,7 +599,6 @@ dedal
 dedicado
 deduzir
 defesa
-deformar
 defumar
 degelo
 degrau
@@ -1006,7 +1002,6 @@ guerrear
 guiar
 guincho
 guisado
-guizo
 gula
 guloso
 guru
@@ -1407,7 +1402,6 @@ novilho
 novo
 nublado
 nudez
-nudismo
 nulidade
 numeral
 nupcial
@@ -1518,7 +1512,6 @@ pebolim
 peculiar
 pedalar
 pedestre
-pedir
 pedra
 pegada
 peixe
@@ -1533,7 +1526,6 @@ pente
 penugem
 peralta
 perceber
-perda
 perfeito
 pergunta
 perito
@@ -1668,8 +1660,6 @@ rapel
 rapidez
 raposa
 raquete
-raridade
-raro
 rasante
 rasgar
 raspador
@@ -1691,12 +1681,10 @@ recibo
 recordar
 recrutar
 recuo
-redator
 rede
 redimir
 redonda
 reduzida
-reduzir
 reenvio
 refil
 refletir
@@ -1715,7 +1703,6 @@ remendo
 remorso
 remover
 renovado
-reparar
 reparo
 repartir
 repasse
@@ -1723,7 +1710,6 @@ repelir
 repleto
 repolho
 represa
-represar
 repudiar
 requerer
 requinte
@@ -1763,7 +1749,6 @@ rigoroso
 rimar
 ringue
 risada
-riscar
 risco
 risonho
 robalo
@@ -2045,7 +2030,6 @@ veludo
 vencedor
 venerar
 ventre
-verbo
 verdade
 vereador
 vergonha
