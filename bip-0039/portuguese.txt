@@ -23,6 +23,7 @@ acaso
 aceitar
 acelerar
 acenar
+acervo
 acessar
 acetona
 achatar
@@ -56,6 +57,7 @@ adquirir
 adubo
 adverso
 advogado
+aeronave
 afastar
 aferir
 afetivo
@@ -105,6 +107,7 @@ alpiste
 alterar
 altitude
 alucinar
+alugar
 aluno
 alusivo
 alvo
@@ -177,7 +180,9 @@ arraial
 arrebate
 arriscar
 arroba
+arrumar
 arsenal
+arterial
 artigo
 arvoredo
 ascender
@@ -273,6 +278,7 @@ besouro
 besteira
 bexiga
 bezerro
+bicar
 bico
 bicudo
 bienal
@@ -317,6 +323,7 @@ borracha
 bovino
 boxeador
 branco
+brasa
 breu
 briga
 brilho
@@ -367,12 +374,14 @@ caneta
 canguru
 canhoto
 canivete
+canja
 canoa
 cansado
 cantar
 canudo
 capacho
 capela
+capinar
 capotar
 capricho
 captador
@@ -483,6 +492,8 @@ confuso
 congelar
 conhecer
 conjugar
+consumir
+contrato
 convite
 cooperar
 copeiro
@@ -632,6 +643,7 @@ duquesa
 durante
 duvidoso
 eclodir
+ecoar
 ecologia
 edificar
 edital
@@ -658,6 +670,7 @@ empatia
 empenho
 empinado
 emprego
+empurrar
 emulador
 encaixe
 encenado
@@ -673,6 +686,7 @@ engomado
 engraxar
 enguia
 enlatar
+enquanto
 enraizar
 enrolado
 enrugar
@@ -705,6 +719,7 @@ escama
 escola
 escrita
 escuta
+esfinge
 esfolar
 esfregar
 esgrima
@@ -712,10 +727,12 @@ esmalte
 espanto
 espelho
 espiga
+esponja
 espreita
 espumar
 esquerda
 estaca
+esticar
 estofado
 estrela
 estudo
@@ -792,6 +809,7 @@ fiapo
 fibrose
 ficar
 ficheiro
+figa
 figurado
 fileira
 filho
@@ -829,6 +847,7 @@ fralda
 frango
 frasco
 fraterno
+freira
 frente
 frieza
 friso
@@ -851,6 +870,7 @@ gado
 gaiato
 gaiola
 gaivota
+galega
 galho
 galinha
 galocha
@@ -893,6 +913,7 @@ global
 glorioso
 goela
 goiaba
+gole
 golfe
 golpear
 gordura
@@ -904,6 +925,7 @@ gracejo
 gradual
 grafite
 gralha
+grama
 granada
 graveto
 graxa
@@ -937,6 +959,7 @@ heresia
 hesitar
 hiato
 hibernar
+hidratar
 hiena
 hino
 hipismo
@@ -992,6 +1015,7 @@ inerente
 infantil
 infestar
 infinito
+inflamar
 informal
 infrator
 ingerir
@@ -1060,6 +1084,7 @@ ladrilho
 lagarta
 lagoa
 laje
+lamber
 laminar
 lampejo
 lanche
@@ -1146,6 +1171,7 @@ malandro
 malha
 maluco
 mamilo
+mamoeiro
 mamute
 manada
 mancha
@@ -1153,6 +1179,7 @@ mandato
 manequim
 manhoso
 manivela
+manobrar
 mansa
 manter
 manusear
@@ -1215,6 +1242,7 @@ miolo
 mirante
 mirtilo
 mocidade
+moderno
 moer
 moinho
 moita
@@ -1255,6 +1283,7 @@ namoro
 narina
 narrado
 nascer
+nata
 nativa
 natureza
 navalha
@@ -1386,6 +1415,7 @@ passado
 pastel
 patamar
 patente
+patinar
 patrono
 paulada
 pausar
@@ -1556,6 +1586,7 @@ redimir
 redonda
 reduzida
 reenvio
+refinar
 refletir
 refogar
 refresco
@@ -1731,6 +1762,7 @@ surreal
 suspiro
 sustento
 tabela
+tablete
 tabuada
 tacho
 tagarela
@@ -1802,12 +1834,14 @@ tradutor
 trafegar
 trajeto
 trama
+trancar
 trapo
 traseiro
 trator
 travar
 trazer
 treinar
+tremer
 trevo
 triagem
 tribo
@@ -1849,6 +1883,7 @@ valores
 vantagem
 vaqueiro
 varanda
+vareta
 vasilha
 vassoura
 vazar
@@ -1890,6 +1925,7 @@ virtude
 visconde
 visitar
 visto
+vitral
 viveiro
 vizinho
 voador
@@ -1906,6 +1942,7 @@ xerife
 zangado
 zarpar
 zebu
+zelar
 zepelim
 zombar
 zumbido
