@@ -73,6 +73,7 @@ agenciar
 agilizar
 agiota
 agitado
+agora
 agradar
 agreste
 agrupar
@@ -129,6 +130,7 @@ amostra
 amparar
 ampliar
 ampola
+anagrama
 analisar
 anarquia
 anatomia
@@ -138,6 +140,7 @@ anexo
 angular
 animar
 anjo
+anomalia
 anotado
 ansioso
 anterior
@@ -227,6 +230,7 @@ aviador
 avisar
 avulso
 axila
+azarar
 azedo
 azeite
 azulejo
@@ -240,6 +244,7 @@ baiano
 bailar
 baioneta
 bairro
+baixar
 bajular
 baleia
 baliza
@@ -249,6 +254,7 @@ bandeira
 banho
 banir
 banquete
+barato
 barbado
 baronesa
 barraca
@@ -267,6 +273,7 @@ beirada
 beisebol
 beldade
 beleza
+belga
 beliscar
 bendito
 bengala
@@ -324,6 +331,7 @@ bovino
 boxeador
 branco
 brasa
+braveza
 breu
 briga
 brilho
@@ -344,6 +352,7 @@ buzina
 cabana
 cabelo
 cabide
+cabo
 cabrito
 cacau
 cacetada
@@ -357,6 +366,7 @@ caipira
 caixa
 cajado
 caju
+calafrio
 calcular
 caldeira
 calibrar
@@ -394,6 +404,7 @@ caridade
 carneiro
 carpete
 carreira
+cartaz
 carvalho
 casaco
 casca
@@ -456,6 +467,7 @@ cirurgia
 citar
 clareza
 clero
+clicar
 clone
 clube
 coado
@@ -469,6 +481,7 @@ coentro
 coeso
 cogumelo
 coibir
+coice
 coifa
 coiote
 colar
@@ -482,6 +495,7 @@ comando
 combinar
 comentar
 comigo
+comitiva
 comover
 complexo
 comum
@@ -498,6 +512,7 @@ convite
 cooperar
 copeiro
 copiador
+copiloto
 copo
 coquetel
 coragem
@@ -512,6 +527,7 @@ corvo
 cosseno
 costela
 cotonete
+couro
 couve
 covil
 cozinha
@@ -528,9 +544,12 @@ crioulo
 crise
 criticar
 crosta
+crua
 cruzeiro
+cubano
 cueca
 cuidado
+cujo
 culatra
 culminar
 culpar
@@ -567,10 +586,12 @@ deitado
 deixar
 delator
 delegado
+delinear
 delonga
 demanda
 demitir
 demolido
+dentista
 depenado
 depilar
 depois
@@ -586,6 +607,7 @@ desfiado
 desgaste
 desigual
 deslize
+deslocar
 desmaio
 desova
 despesa
@@ -596,6 +618,7 @@ detentor
 detonar
 detrito
 deusa
+dever
 devido
 devotado
 dezena
@@ -644,7 +667,6 @@ duquesa
 durante
 duvidoso
 eclodir
-eclusa
 ecoar
 ecologia
 edificar
@@ -952,7 +974,6 @@ grego
 grelhar
 greve
 grilo
-grinalda
 grisalho
 gritaria
 grosso
@@ -975,7 +996,6 @@ habitar
 harmonia
 haste
 haver
-hebreu
 hectare
 herdar
 heresia
@@ -1475,7 +1495,6 @@ peitoral
 peixe
 pele
 pelicano
-penacho
 penca
 pendurar
 peneira
@@ -2019,7 +2038,6 @@ virtude
 visconde
 visitar
 visto
-vitelo
 vitral
 viveiro
 vizinho
