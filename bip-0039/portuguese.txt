@@ -125,7 +125,7 @@ amistoso
 amizade
 amolador
 amontoar
-amora
+amoroso
 amostra
 amparar
 ampliar
@@ -244,7 +244,7 @@ baiano
 bailar
 baioneta
 bairro
-baixar
+baixista
 bajular
 baleia
 baliza
@@ -282,10 +282,8 @@ berimbau
 berlinda
 berro
 besouro
-besteira
 bexiga
 bezerro
-bicar
 bico
 bicudo
 bienal
@@ -363,7 +361,7 @@ cadeado
 cafezal
 caiaque
 caipira
-caixa
+caixote
 cajado
 caju
 calafrio
@@ -384,7 +382,6 @@ caneta
 canguru
 canhoto
 canivete
-canja
 canoa
 cansado
 cantar
@@ -400,7 +397,7 @@ caracol
 carbono
 cardeal
 careca
-caridade
+carinho
 carneiro
 carpete
 carreira
@@ -481,7 +478,6 @@ coentro
 coeso
 cogumelo
 coibir
-coice
 coifa
 coiote
 colar
@@ -558,7 +554,7 @@ cupido
 curativo
 curral
 cursar
-curtir
+curto
 cuspir
 custear
 cutelo
@@ -630,7 +626,7 @@ dinastia
 dinheiro
 diocese
 direto
-discar
+discreta
 disfarce
 disparo
 disquete
@@ -724,7 +720,6 @@ entidade
 entortar
 entrada
 entulho
-enunciar
 envergar
 enviado
 envolver
@@ -825,7 +820,6 @@ fechado
 feijoada
 feirante
 feitio
-feixe
 felino
 feminino
 fenda
@@ -841,7 +835,6 @@ fiapo
 fibrose
 ficar
 ficheiro
-figa
 figurado
 fileira
 filho
@@ -869,7 +862,6 @@ foguete
 foice
 folgado
 folheto
-fomentar
 forjar
 formiga
 forno
@@ -950,20 +942,20 @@ global
 glorioso
 goela
 goiaba
-gole
+golear
 golfe
 golpear
 gordura
 gorjeta
 gorro
-gostar
+gostoso
 goteira
 governar
 gracejo
 gradual
 grafite
 gralha
-grama
+grampo
 granada
 graveto
 graxa
@@ -1022,7 +1014,7 @@ ileso
 ilha
 iludido
 iluminar
-ilustre
+ilustrar
 imagem
 imaturo
 imediato
@@ -1093,7 +1085,7 @@ isento
 isolado
 isqueiro
 italiano
-janela
+janeiro
 jangada
 janta
 jararaca
@@ -1206,7 +1198,6 @@ luneta
 lustre
 lutador
 luva
-luxo
 macaco
 macete
 machado
@@ -1295,7 +1286,7 @@ mirtilo
 misturar
 mocidade
 moderno
-moedor
+moeda
 moer
 moinho
 moita
@@ -1330,7 +1321,6 @@ murcho
 muscular
 museu
 musical
-nabo
 nacional
 nadador
 naja
@@ -1338,7 +1328,6 @@ namoro
 narina
 narrado
 nascer
-nata
 nativa
 natureza
 navalha
@@ -1366,7 +1355,6 @@ nomear
 nominal
 nordeste
 nortear
-nosso
 notar
 noticiar
 noturno
@@ -1431,7 +1419,6 @@ ossada
 osso
 ostentar
 otimismo
-ouro
 ousadia
 outono
 outubro
@@ -1475,11 +1462,9 @@ pastel
 patamar
 patente
 patinar
-pato
 patrono
 paulada
 pausar
-pavio
 peculiar
 pedalar
 pedestre
@@ -1567,7 +1552,6 @@ praxe
 prece
 predador
 prefeito
-pregar
 premiar
 prensar
 preparar
@@ -1589,7 +1573,6 @@ propagar
 prosa
 protetor
 provador
-prumo
 publicar
 pudim
 pular
@@ -1641,7 +1624,6 @@ ratazana
 ratoeira
 realeza
 reanimar
-reator
 reaver
 rebaixar
 rebelde
@@ -1713,7 +1695,7 @@ rodado
 rodeio
 rodovia
 roedor
-rolar
+rolante
 roleta
 romano
 roncar
@@ -1920,7 +1902,6 @@ trama
 trancar
 trapo
 traseiro
-tratar
 travar
 treinar
 tremer
@@ -1960,7 +1941,6 @@ usado
 usina
 usufruir
 vacina
-vaga
 vala
 valente
 validade
@@ -2008,7 +1988,6 @@ vinco
 vinheta
 vinil
 violeta
-viril
 virtude
 visconde
 visitar
