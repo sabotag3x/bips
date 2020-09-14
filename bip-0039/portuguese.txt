@@ -494,7 +494,6 @@ coluna
 comando
 combinar
 comentar
-comigo
 comitiva
 comover
 complexo
@@ -512,7 +511,6 @@ convite
 cooperar
 copeiro
 copiador
-copiloto
 copo
 coquetel
 coragem
@@ -607,7 +605,6 @@ desfiado
 desgaste
 desigual
 deslize
-deslocar
 desmaio
 desova
 despesa
@@ -983,7 +980,6 @@ grunhido
 gruta
 guache
 guarani
-guarda
 guaxinim
 guerrear
 guiar
@@ -1067,7 +1063,6 @@ inibido
 inicial
 inimigo
 injetar
-injetor
 inocente
 inodoro
 inovador
@@ -1508,7 +1503,6 @@ perfeito
 pergunta
 perito
 permitir
-permutar
 perna
 perplexo
 pertence
@@ -1571,8 +1565,6 @@ prancha
 prato
 praxe
 prece
-preciso
-precoce
 predador
 prefeito
 pregar
@@ -1580,7 +1572,6 @@ premiar
 prensar
 preparar
 presilha
-pressa
 pretexto
 prevenir
 prezar
@@ -1593,7 +1584,6 @@ produto
 profeta
 proibido
 projeto
-prolongar
 prometer
 propagar
 prosa
@@ -1650,7 +1640,6 @@ rasurar
 ratazana
 ratoeira
 realeza
-realista
 reanimar
 reator
 reaver
@@ -1678,7 +1667,6 @@ regalia
 regime
 regra
 reinado
-reinar
 reitor
 rejeitar
 relativo
@@ -1690,7 +1678,6 @@ reparo
 repelir
 repleto
 repolho
-repor
 represa
 repudiar
 requerer
@@ -1834,7 +1821,6 @@ sovado
 sozinho
 subida
 submerso
-submeter
 subsolo
 subtrair
 sucata
@@ -1932,14 +1918,10 @@ trafegar
 trajeto
 trama
 trancar
-trancar
 trapo
 traseiro
 tratar
-trator
-trator
 travar
-trazer
 treinar
 tremer
 trevo
@@ -1995,9 +1977,7 @@ veado
 vedar
 veia
 veleiro
-velejar
 velhice
-veludo
 vencedor
 venerar
 ventre
@@ -2006,13 +1986,11 @@ verdade
 vereador
 vergonha
 verniz
-verniz
 versar
 vertente
 vespa
 vestido
 vetorial
-viaduto
 viaduto
 viagem
 viajar
@@ -2027,17 +2005,13 @@ vigiar
 vigorar
 vilarejo
 vinco
-vincular
 vinheta
 vinil
 violeta
-virar
 viril
-virilha
 virtude
 visconde
 visitar
-visto
 vitral
 viveiro
 vizinho
@@ -2047,7 +2021,6 @@ vogal
 volante
 voleibol
 voltagem
-voltar
 vontade
 vulto
 vuvuzela
