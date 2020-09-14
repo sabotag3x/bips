@@ -1921,7 +1921,6 @@ trancar
 trapo
 traseiro
 tratar
-trator
 travar
 treinar
 tremer
@@ -1978,7 +1977,6 @@ veado
 vedar
 veia
 veleiro
-velejar
 velhice
 vencedor
 venerar
@@ -2007,12 +2005,10 @@ vigiar
 vigorar
 vilarejo
 vinco
-vincular
 vinheta
 vinil
 violeta
 viril
-virilha
 virtude
 visconde
 visitar
@@ -2025,10 +2021,10 @@ vogal
 volante
 voleibol
 voltagem
-voltar
 vontade
 vulto
 vuvuzela
+xadrez
 xarope
 xeque
 xeretar
