@@ -761,7 +761,6 @@ estaca
 esteira
 esticar
 estofado
-estouro
 estrela
 estudo
 esvaziar
@@ -780,7 +779,6 @@ exalar
 examinar
 exato
 exausto
-exceder
 excesso
 excitar
 exclamar
@@ -1220,8 +1218,6 @@ maior
 mais
 malandro
 maldade
-maldita
-maldoso
 malha
 maligno
 malote
@@ -1480,7 +1476,6 @@ palmada
 palpitar
 pancada
 pandemia
-pandora
 panela
 panfleto
 panqueca
@@ -1526,11 +1521,7 @@ pente
 penugem
 peralta
 perceber
-perdida
-perdido
-perdoar
 perdurar
-perecer
 perene
 perfeito
 pergunta
@@ -1543,7 +1534,6 @@ pertence
 peruca
 perverso
 pesadelo
-pesagem
 pescado
 pesquisa
 pessoa
@@ -1849,7 +1839,6 @@ simpatia
 simular
 sinal
 sincero
-singela
 singular
 sinopse
 sintonia
@@ -1857,7 +1846,6 @@ sirene
 siri
 situado
 soberano
-soberbo
 sobra
 socorro
 sofredor
@@ -2041,11 +2029,9 @@ usado
 usina
 usufruir
 vacada
-vacaria
 vacina
 vadiar
 vagaroso
-vaidade
 vaidoso
 vala
 valente
