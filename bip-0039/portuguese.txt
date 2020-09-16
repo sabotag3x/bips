@@ -1210,14 +1210,11 @@ macio
 madeira
 madrinha
 magnata
-magoar
 magreza
 maior
 mais
 malandro
-maldade
 malha
-maligno
 malote
 maluco
 mamilo
@@ -1266,7 +1263,6 @@ melhor
 meloso
 membro
 memorial
-mendigo
 menino
 menos
 mensagem
@@ -1292,7 +1288,6 @@ milenar
 milhar
 mimado
 minerar
-minguar
 minhoca
 ministro
 minoria
@@ -1300,8 +1295,6 @@ miolo
 mirante
 mirtilo
 misturar
-miudeza
-moagem
 mocidade
 moderno
 modular
@@ -1341,7 +1334,6 @@ murmurar
 muscular
 museu
 musical
-mutuante
 nacional
 nadador
 naja
@@ -1359,7 +1351,6 @@ nebuloso
 negativa
 negociar
 negrito
-nenhum
 nervoso
 neta
 neural
@@ -1445,7 +1436,6 @@ ostentar
 otimismo
 ousadia
 outono
-outrora
 outubro
 ouvido
 ovelha
@@ -1470,7 +1460,6 @@ palito
 palmada
 palpitar
 pancada
-pandemia
 panela
 panfleto
 panqueca
@@ -1492,7 +1481,6 @@ patinar
 patrono
 paulada
 pausar
-pecador
 peculiar
 pedalar
 pedestre
@@ -1512,8 +1500,6 @@ pensador
 pente
 peralta
 perceber
-perdurar
-perene
 perfeito
 pergunta
 perito
@@ -1523,8 +1509,6 @@ perplexo
 persiana
 pertence
 peruca
-perverso
-pesadelo
 pescado
 pesquisa
 pessoa
@@ -1537,19 +1521,16 @@ pilastra
 pilhado
 pilotar
 pimenta
-pimpolho
 pincel
 pinguim
 pinha
 pinote
 pintar
-piolho
 pioneiro
 pipoca
 piquete
 piranha
 pires
-pirralho
 pirueta
 piscar
 pistola
@@ -1564,7 +1545,6 @@ pluvial
 pneu
 pocilga
 poda
-poderes
 poeira
 poetisa
 polegada
@@ -1647,7 +1627,6 @@ raiva
 rajada
 ralado
 ramal
-rancor
 ranger
 ranhura
 rapadura
@@ -1663,7 +1642,6 @@ raspador
 rasteira
 rasurar
 ratazana
-raticida
 ratoeira
 realeza
 reanimar
@@ -1763,7 +1741,6 @@ saciar
 sacola
 sacudir
 sadio
-safadeza
 safira
 saga
 sagrada
@@ -1818,7 +1795,6 @@ servo
 setembro
 setor
 sigilo
-silagem
 silhueta
 silicone
 simetria
@@ -1835,7 +1811,6 @@ situado
 soberano
 sobra
 socorro
-sofredor
 sogro
 soja
 solda
@@ -1859,7 +1834,6 @@ sozinho
 suavizar
 subida
 submerso
-suborno
 subsolo
 subtrair
 sucata
@@ -1916,7 +1890,6 @@ teia
 teimar
 telefone
 telhado
-temeroso
 tempero
 tenente
 tensor
@@ -1938,7 +1911,6 @@ timidez
 tingido
 tinteiro
 tiragem
-tiroteio
 titular
 toalha
 tocha
@@ -1955,7 +1927,6 @@ torneio
 torque
 torrada
 torto
-tossir
 tostar
 touca
 toupeira
@@ -2012,7 +1983,6 @@ urubu
 usado
 usina
 usufruir
-vacada
 vacina
 vadiar
 vagaroso
@@ -2025,17 +1995,14 @@ vantagem
 vaqueiro
 varanda
 vareta
-variado
 varrer
 vascular
-vaselina
 vasilha
 vassoura
 vazar
 vazio
 veado
 vedar
-veemente
 vegetar
 veicular
 veleiro
@@ -2061,7 +2028,6 @@ viagem
 viajar
 viatura
 vibrador
-vicioso
 videira
 vidraria
 viela
@@ -2071,7 +2037,6 @@ vigiar
 vigorar
 vilarejo
 vinco
-vindouro
 vinheta
 vinil
 violeta
@@ -2091,7 +2056,6 @@ volante
 voleibol
 voltagem
 volumoso
-vomitar
 vontade
 vulto
 vuvuzela
