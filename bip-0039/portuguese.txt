@@ -471,7 +471,6 @@ clone
 clube
 coado
 coagir
-coagular
 cobaia
 cobertor
 cobrar
@@ -491,7 +490,6 @@ colmeia
 colono
 coluna
 comando
-combater
 combinar
 comentar
 comitiva
@@ -665,7 +663,6 @@ duplo
 duquesa
 durante
 duvidoso
-eclodir
 eclodir
 ecoar
 ecologia
