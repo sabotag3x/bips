@@ -319,6 +319,7 @@ boletim
 bolha
 bolo
 bombeiro
+bonde
 boneco
 bonita
 borbulha
@@ -367,6 +368,7 @@ caju
 calafrio
 calcular
 caldeira
+calha
 calibrar
 calmante
 calota
@@ -469,6 +471,7 @@ clone
 clube
 coado
 coagir
+coagular
 cobaia
 cobertor
 cobrar
@@ -488,6 +491,7 @@ colmeia
 colono
 coluna
 comando
+combater
 combinar
 comentar
 comitiva
@@ -563,6 +567,7 @@ datar
 debater
 debitar
 deboche
+debulhar
 decalque
 decimal
 declive
@@ -601,7 +606,7 @@ desfiado
 desgaste
 desigual
 deslize
-desmaio
+desmamar
 desova
 despesa
 destaque
@@ -621,6 +626,7 @@ didata
 difuso
 digitar
 dilatado
+diluente
 diminuir
 dinastia
 dinheiro
@@ -659,6 +665,7 @@ duplo
 duquesa
 durante
 duvidoso
+eclodir
 eclodir
 ecoar
 ecologia
@@ -700,6 +707,7 @@ enfeite
 enfim
 engajado
 engenho
+englobar
 engomado
 engraxar
 enguia
@@ -742,6 +750,7 @@ escuta
 esfinge
 esfolar
 esfregar
+esfumado
 esgrima
 esmalte
 espanto
