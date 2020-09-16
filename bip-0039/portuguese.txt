@@ -1244,7 +1244,6 @@ marreco
 martelo
 marujo
 mascote
-mascote
 masmorra
 massagem
 mastigar
@@ -1778,7 +1777,6 @@ segredo
 segundo
 seiva
 seleto
-selo
 selvagem
 semanal
 semente
