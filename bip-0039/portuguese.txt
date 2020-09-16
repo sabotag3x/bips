@@ -397,7 +397,7 @@ caracol
 carbono
 cardeal
 careca
-carinho
+carimbar
 carneiro
 carpete
 carreira
@@ -558,8 +558,8 @@ curto
 cuspir
 custear
 cutelo
-damasco
-data
+damascoe
+datar
 debater
 debitar
 deboche
@@ -667,7 +667,6 @@ edital
 educado
 efeito
 efetivar
-eixo
 ejetar
 elaborar
 eleger
@@ -756,6 +755,7 @@ estaca
 esteira
 esticar
 estofado
+estouro
 estrela
 estudo
 esvaziar
@@ -774,6 +774,7 @@ exalar
 examinar
 exato
 exausto
+exceder
 excesso
 excitar
 exclamar
@@ -916,6 +917,7 @@ gaveta
 gazela
 gelado
 geleia
+gelo
 gemada
 gemer
 gemido
@@ -942,7 +944,6 @@ global
 glorioso
 goela
 goiaba
-golear
 golfe
 golpear
 gordura
@@ -957,6 +958,7 @@ grafite
 gralha
 grampo
 granada
+gratuito
 graveto
 graxa
 grego
@@ -1112,6 +1114,7 @@ julho
 jurado
 jurista
 juro
+justa
 labareda
 laboral
 lacre
@@ -1152,7 +1155,6 @@ leme
 lenhador
 lentilha
 leoa
-leque
 lesma
 leste
 letivo
@@ -1184,6 +1186,7 @@ locutor
 lojista
 lombo
 lona
+longe
 lontra
 lorde
 lotado
@@ -1225,6 +1228,7 @@ mansa
 manter
 manusear
 mapeado
+maquinar
 marcador
 maresia
 marfim
@@ -1248,7 +1252,7 @@ maxilar
 medalha
 medida
 medusa
-meigo
+meiga
 melancia
 melhor
 meloso
@@ -1407,7 +1411,6 @@ orar
 orbitar
 ordem
 ordinal
-orelha
 orfanato
 orgasmo
 orgulho
@@ -1504,7 +1507,6 @@ pessoa
 petiscar
 piada
 picado
-picotar
 piedade
 pigmento
 pilastra
@@ -1700,11 +1702,10 @@ risco
 risonho
 robalo
 rochedo
-rodado
+rodada
 rodeio
 rodovia
 roedor
-rolante
 roleta
 romano
 roncar
@@ -1733,7 +1734,6 @@ sadio
 safira
 saga
 sagrada
-saia
 saibro
 salada
 saleiro
@@ -1756,7 +1756,7 @@ saturar
 saudade
 saxofone
 sazonal
-secador
+secar
 secular
 seda
 sedento
@@ -1803,7 +1803,6 @@ soja
 solda
 soletrar
 solteiro
-somar
 sombrio
 sonata
 sondar
@@ -1864,7 +1863,7 @@ tarja
 tarraxa
 tatuagem
 taurino
-taxar
+taxativo
 taxista
 teatral
 tecer
@@ -1891,7 +1890,7 @@ tigela
 tijolo
 timidez
 tingido
-tintura
+tinteiro
 tiragem
 titular
 toalha
@@ -1972,12 +1971,10 @@ vareta
 varrer
 vasilha
 vassoura
-vasto
 vazar
 vazio
 veado
 vedar
-veia
 veleiro
 velhice
 veludo
@@ -2040,7 +2037,7 @@ xingar
 zangado
 zarpar
 zebu
-zelar
+zelador
 zepelim
 zombar
 zumbido
