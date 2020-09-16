@@ -312,7 +312,6 @@ bobagem
 bocado
 bocejo
 bochecha
-bode
 boicotar
 bolada
 boletim
@@ -368,7 +367,6 @@ caju
 calafrio
 calcular
 caldeira
-calha
 calibrar
 calmante
 calota
@@ -1316,7 +1314,6 @@ moleza
 molho
 molinete
 molusco
-monge
 monstro
 montanha
 moqueca
@@ -1379,12 +1376,10 @@ noiva
 nomear
 nominal
 nordeste
-noroeste
 nortear
 notar
 noticiar
 noturno
-noutrora
 novelo
 novilho
 novo
@@ -1487,8 +1482,6 @@ parafina
 parcial
 pardal
 parede
-paridade
-parreira
 partida
 pasmo
 passado
@@ -1511,14 +1504,12 @@ peixe
 pele
 pelicano
 pelugem
-penada
 penca
 pendurar
 peneira
 penhasco
 pensador
 pente
-penugem
 peralta
 perceber
 perdurar
@@ -1540,7 +1531,6 @@ pessoa
 petiscar
 piada
 picado
-picotar
 piedade
 pigmento
 pilastra
@@ -1572,7 +1562,6 @@ plebeu
 plumagem
 pluvial
 pneu
-pobreza
 pocilga
 poda
 poderes
@@ -1801,7 +1790,6 @@ saturar
 saudade
 saxofone
 sazonal
-seboso
 secar
 secular
 seda
@@ -1813,7 +1801,6 @@ segmento
 segredo
 segundo
 seiva
-selar
 seleto
 selo
 selvagem
@@ -1879,7 +1866,6 @@ sucata
 sucesso
 suco
 sudeste
-sudoeste
 sufixo
 sugador
 sugerir
@@ -1959,7 +1945,6 @@ tocha
 tolerar
 tolice
 tomada
-tombar
 tomilho
 tonel
 tontura
@@ -1974,7 +1959,6 @@ tossir
 tostar
 touca
 toupeira
-tourada
 toxina
 trabalho
 tracejar
@@ -2092,7 +2076,6 @@ vinheta
 vinil
 violeta
 virada
-virgem
 virose
 virtude
 visconde
@@ -2122,7 +2105,6 @@ zangado
 zarpar
 zebu
 zelador
-zeloso
 zepelim
 zombar
 zoologia
