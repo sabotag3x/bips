@@ -1923,7 +1923,6 @@ trancar
 trapo
 traseiro
 travar
-treinar
 treino
 tremer
 trevo
@@ -2004,7 +2003,6 @@ viatura
 vibrador
 videira
 vidraria
-vidro
 viela
 viga
 vigente
